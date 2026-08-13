@@ -1,0 +1,690 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Benefits"
+    },
+    {
+      "description": "Modern frontends (React, Vue, Angular, ...) use JavaScript to load and display content. Such JavaScript-generated-content is invisible to crawlers that don't execute JavaScript. Most crawlers (search engines and social sites) don't execute JavaScript.\nThe Google crawler is the only one that can successfully index JavaScript-generated-content. But it has limitations. (Mainly around delayed indexing and client-side routing, see Learning Material.)\nIf you want your content to be crawled by all other search engines (Bing, Baidu, DuckDuckGo, etc.), then your content needs to be included in your website's HTML.",
+      "items": [],
+      "title": "SEO"
+    },
+    {
+      "description": "The crawler of social media sites (Facebook, Twitter, ...) don't execute JavaScript and rely on HTML exclusively.\nIf you want your website to be correctly previewed when a user shares your website, then the corresponding information needs to be included in your website's HTML.\n(SMO means \"Social Media Optimization\".)",
+      "items": [],
+      "title": "SMO"
+    },
+    {
+      "description": "Rendering your website's pages to HTML decreases the perceived loading time: Once the HTML is loaded, content can already be displayed before any JavaScript is loaded/executed.\nThe improvement is considerable on mobile where loading and executing JavaScript is much slower.",
+      "items": [],
+      "title": "Performance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning Material"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "React"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SSR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Next.js",
+          "description": "The most popular SSR tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:57:22Z",
+            "owner": "vercel",
+            "repo": "next.js",
+            "stars": 141748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "After.js",
+          "description": "Similar to Next.js but with routing based on React Router.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-26T16:18:59Z",
+            "owner": "jaredpalmer",
+            "repo": "after.js",
+            "stars": 4090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-09T17:40:10Z",
+            "owner": "redfin",
+            "repo": "react-server",
+            "stars": 3866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reframe",
+          "description": "Flexible web framework. It does SSR by default and can be used as SSG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-29T11:00:08Z",
+            "owner": "reframejs",
+            "repo": "reframe",
+            "stars": 431
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Razzle",
+          "description": "Handles the building. You do the rest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-11T08:45:43Z",
+            "owner": "jaredpalmer",
+            "repo": "razzle",
+            "stars": 11029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rogue.js",
+          "description": "SSR utilities focused on flexibility. First-class support for React Router, Apollo GraphQL, Redux, Emotion, and Styled-Components. The build step is up to you (but you can use Razzle.)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-01-05T20:42:35Z",
+            "owner": "alidcast",
+            "repo": "rogue.js",
+            "stars": 1872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Universal Component",
+          "description": "Utility to code split your SSR app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-27T05:26:42Z",
+            "owner": "faceyspacey",
+            "repo": "react-universal-component",
+            "stars": 1690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goldpage",
+          "description": "A do-one-thing-do-it-well library that supports all app types; \"SPA\", \"SSR\", \"Static Website\", etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-04T09:39:11Z",
+            "owner": "brillout",
+            "repo": "goldpage",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Next.js",
+          "description": "Although primarily focused on SSR, Next.js can also generate static sites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:57:22Z",
+            "owner": "vercel",
+            "repo": "next.js",
+            "stars": 141748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatsby.js",
+          "description": "SSG based on React and GraphQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T05:12:32Z",
+            "owner": "gatsbyjs",
+            "repo": "gatsby",
+            "stars": 55941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Static",
+          "description": "SSG based on React and focused on simplicity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-31T19:59:37Z",
+            "owner": "react-static",
+            "repo": "react-static",
+            "stars": 10346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phenomic",
+          "description": "SSG based on a flexible plugin system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-09-07T07:44:51Z",
+            "owner": "MoOx",
+            "repo": "phenomic",
+            "stars": 3172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reframe",
+          "description": "Flexible web framework. It does SSR by default and can be used as SSG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-29T11:00:08Z",
+            "owner": "reframejs",
+            "repo": "reframe",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goldpage",
+          "description": "A do-one-thing-do-it-well library that supports all app types; \"SPA\", \"SSR\", \"Static Website\", etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-04T09:39:11Z",
+            "owner": "brillout",
+            "repo": "goldpage",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "SSG"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pre-Rendering"
+    },
+    {
+      "description": "Automatically and regularly render your deployed website to HTML.",
+      "items": [],
+      "title": "Dynamic Pre-Rendering"
+    },
+    {
+      "description": "Some static pre-renderers, instead of generating HTML upon a generated DOM, directly render your pages to HTML.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prerender SPA Plugin",
+          "description": "Uses Puppeteer to crawl & render your pages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-09T13:38:15Z",
+            "owner": "chrisvfritz",
+            "repo": "prerender-spa-plugin",
+            "stars": 7272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-snap",
+          "description": "Uses Puppeteer to crawl & render your pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-02T00:56:29Z",
+            "owner": "stereobooster",
+            "repo": "react-snap",
+            "stars": 5118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Snapshot",
+          "description": "Pre-renders React apps at build-time. Uses to directly render the HTML. Uses JSDOM as headless browser to automatically discover your app's URLs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-12T15:32:07Z",
+            "owner": "geelen",
+            "repo": "react-snapshot",
+            "stars": 1656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSG webpack plugin",
+          "description": "Directly render your pages to HTML. You provide render functions and routes. All routes are rendered at build-time using the render functions you provided. Also has a crawl mode to use a headless browser to automatically discover your website's URLs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-28T12:27:40Z",
+            "owner": "markdalgleish",
+            "repo": "static-site-generator-webpack-plugin",
+            "stars": 1601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prep",
+          "description": "Uses Chromeless to crawl & render your pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-24T12:51:38Z",
+            "owner": "prisma-archive",
+            "repo": "prep",
+            "stars": 371
+          }
+        }
+      ],
+      "title": "Static Pre-Rendering"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vue"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SSR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nuxt",
+          "description": "Similar to Next.js but for Vue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:05:18Z",
+            "owner": "nuxt",
+            "repo": "nuxt",
+            "stars": 60755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reframe",
+          "description": "Flexible web framework. It does SSR by default and can be used as SSG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-29T11:00:08Z",
+            "owner": "reframejs",
+            "repo": "reframe",
+            "stars": 431
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Phenomic",
+          "description": "SSG based on a flexible plugin system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-09-07T07:44:51Z",
+            "owner": "MoOx",
+            "repo": "phenomic",
+            "stars": 3172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reframe",
+          "description": "Flexible web framework. It does SSR by default and can be used as SSG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-29T11:00:08Z",
+            "owner": "reframejs",
+            "repo": "reframe",
+            "stars": 431
+          }
+        }
+      ],
+      "title": "SSG"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pre-Rendering"
+    },
+    {
+      "description": "Automatically and regularly render your deployed website to HTML.",
+      "items": [],
+      "title": "Dynamic Pre-Rendering"
+    },
+    {
+      "description": "Some static pre-renderers, instead of generating HTML upon a generated DOM, directly render your pages to HTML.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prerender SPA Plugin",
+          "description": "Uses Puppeteer to crawl & render your pages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-09T13:38:15Z",
+            "owner": "chrisvfritz",
+            "repo": "prerender-spa-plugin",
+            "stars": 7272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-snap",
+          "description": "Uses Puppeteer to crawl & render your pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-02T00:56:29Z",
+            "owner": "stereobooster",
+            "repo": "react-snap",
+            "stars": 5118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSG webpack plugin",
+          "description": "Directly render your pages to HTML. You provide render functions and routes. All routes are rendered at build-time using the render functions you provided. Also has a crawl mode to use a headless browser to automatically discover your website's URLs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-28T12:27:40Z",
+            "owner": "markdalgleish",
+            "repo": "static-site-generator-webpack-plugin",
+            "stars": 1601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prep",
+          "description": "Uses Chromeless to crawl & render your pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-24T12:51:38Z",
+            "owner": "prisma-archive",
+            "repo": "prep",
+            "stars": 371
+          }
+        }
+      ],
+      "title": "Static Pre-Rendering"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Angular"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pre-Rendering"
+    },
+    {
+      "description": "Automatically and regularly render your deployed website to HTML.",
+      "items": [],
+      "title": "Dynamic Pre-Rendering"
+    },
+    {
+      "description": "Some static pre-renderers, instead of generating HTML upon a generated DOM, directly render your pages to HTML.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prerender SPA Plugin",
+          "description": "Uses Puppeteer to crawl & render your pages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-09T13:38:15Z",
+            "owner": "chrisvfritz",
+            "repo": "prerender-spa-plugin",
+            "stars": 7272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-snap",
+          "description": "Uses Puppeteer to crawl & render your pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-02T00:56:29Z",
+            "owner": "stereobooster",
+            "repo": "react-snap",
+            "stars": 5118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSG webpack plugin",
+          "description": "Directly render your pages to HTML. You provide render functions and routes. All routes are rendered at build-time using the render functions you provided. Also has a crawl mode to use a headless browser to automatically discover your website's URLs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-28T12:27:40Z",
+            "owner": "markdalgleish",
+            "repo": "static-site-generator-webpack-plugin",
+            "stars": 1601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prep",
+          "description": "Uses Chromeless to crawl & render your pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-24T12:51:38Z",
+            "owner": "prisma-archive",
+            "repo": "prep",
+            "stars": 371
+          }
+        }
+      ],
+      "title": "Static Pre-Rendering"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "View Library Agnostic"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Phenomic",
+          "description": "SSG based on a flexible plugin system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-09-07T07:44:51Z",
+            "owner": "MoOx",
+            "repo": "phenomic",
+            "stars": 3172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reframe",
+          "description": "Flexible web framework. It does SSR by default and can be used as SSG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-29T11:00:08Z",
+            "owner": "reframejs",
+            "repo": "reframe",
+            "stars": 431
+          }
+        }
+      ],
+      "title": "SSG"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pre-Rendering"
+    },
+    {
+      "description": "Automatically and regularly render your deployed website to HTML.",
+      "items": [],
+      "title": "Dynamic Pre-Rendering"
+    },
+    {
+      "description": "Some static pre-renderers, instead of generating HTML upon a generated DOM, directly render your pages to HTML.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prerender SPA Plugin",
+          "description": "Uses Puppeteer to crawl & render your pages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-09T13:38:15Z",
+            "owner": "chrisvfritz",
+            "repo": "prerender-spa-plugin",
+            "stars": 7272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-snap",
+          "description": "Uses Puppeteer to crawl & render your pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-02T00:56:29Z",
+            "owner": "stereobooster",
+            "repo": "react-snap",
+            "stars": 5118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSG webpack plugin",
+          "description": "Directly render your pages to HTML. You provide render functions and routes. All routes are rendered at build-time using the render functions you provided. Also has a crawl mode to use a headless browser to automatically discover your website's URLs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-28T12:27:40Z",
+            "owner": "markdalgleish",
+            "repo": "static-site-generator-webpack-plugin",
+            "stars": 1601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prep",
+          "description": "Uses Chromeless to crawl & render your pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-24T12:51:38Z",
+            "owner": "prisma-archive",
+            "repo": "prep",
+            "stars": 371
+          }
+        }
+      ],
+      "title": "Static Pre-Rendering"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:27:18.347Z",
+    "original_repository": "brillout/awesome-universal-rendering",
+    "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
+    "enhanced_repository": "enhansome/enhansome-universal-rendering",
+    "enhanced_repository_description": null,
+    "title": "Awesome Universal Rendering with stars"
+  }
+}
