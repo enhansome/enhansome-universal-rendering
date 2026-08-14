@@ -51,10 +51,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T03:57:22Z",
+            "last_commit": "2026-08-14T05:15:42Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141748
+            "stars": 141780
           }
         },
         {
@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T03:57:22Z",
+            "last_commit": "2026-08-14T05:15:42Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141748
+            "stars": 141780
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-12T05:12:32Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55943
           }
         },
         {
@@ -220,7 +220,7 @@
             "last_commit": "2020-09-07T07:44:51Z",
             "owner": "MoOx",
             "repo": "phenomic",
-            "stars": 3172
+            "stars": 3169
           }
         },
         {
@@ -361,10 +361,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:05:18Z",
+            "last_commit": "2026-08-14T05:32:37Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60755
+            "stars": 60757
           }
         },
         {
@@ -398,7 +398,7 @@
             "last_commit": "2020-09-07T07:44:51Z",
             "owner": "MoOx",
             "repo": "phenomic",
-            "stars": 3172
+            "stars": 3169
           }
         },
         {
@@ -586,7 +586,7 @@
             "last_commit": "2020-09-07T07:44:51Z",
             "owner": "MoOx",
             "repo": "phenomic",
-            "stars": 3172
+            "stars": 3169
           }
         },
         {
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:27:18.347Z",
+    "last_updated": "2026-08-14T05:53:45.983Z",
     "original_repository": "brillout/awesome-universal-rendering",
     "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
     "enhanced_repository": "enhansome/enhansome-universal-rendering",
