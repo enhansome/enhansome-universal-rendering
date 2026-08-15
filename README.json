@@ -51,10 +51,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T05:15:42Z",
+            "last_commit": "2026-08-15T03:24:45Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141780
+            "stars": 141773
           }
         },
         {
@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T05:15:42Z",
+            "last_commit": "2026-08-15T03:24:45Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141780
+            "stars": 141773
           }
         },
         {
@@ -189,10 +189,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T05:12:32Z",
+            "last_commit": "2026-08-15T00:01:50Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55943
+            "stars": 55941
           }
         },
         {
@@ -361,10 +361,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T05:32:37Z",
+            "last_commit": "2026-08-14T23:09:13Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60757
+            "stars": 60758
           }
         },
         {
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:53:45.983Z",
+    "last_updated": "2026-08-15T04:55:17.124Z",
     "original_repository": "brillout/awesome-universal-rendering",
     "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
     "enhanced_repository": "enhansome/enhansome-universal-rendering",
