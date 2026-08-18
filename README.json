@@ -51,10 +51,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T03:23:35Z",
+            "last_commit": "2026-08-18T04:09:30Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141823
+            "stars": 141814
           }
         },
         {
@@ -116,7 +116,7 @@
             "last_commit": "2024-03-11T08:45:43Z",
             "owner": "jaredpalmer",
             "repo": "razzle",
-            "stars": 11029
+            "stars": 11028
           }
         },
         {
@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T03:23:35Z",
+            "last_commit": "2026-08-18T04:09:30Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141823
+            "stars": 141814
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-15T00:01:50Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55943
+            "stars": 55944
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2022-10-31T19:59:37Z",
             "owner": "react-static",
             "repo": "react-static",
-            "stars": 10345
+            "stars": 10346
           }
         },
         {
@@ -361,10 +361,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T01:44:04Z",
+            "last_commit": "2026-08-18T03:50:00Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60759
+            "stars": 60763
           }
         },
         {
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:06:31.071Z",
+    "last_updated": "2026-08-18T05:01:05.463Z",
     "original_repository": "brillout/awesome-universal-rendering",
     "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
     "enhanced_repository": "enhansome/enhansome-universal-rendering",
