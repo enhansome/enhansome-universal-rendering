@@ -51,10 +51,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T04:09:30Z",
+            "last_commit": "2026-08-19T02:04:36Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141814
+            "stars": 141858
           }
         },
         {
@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T04:09:30Z",
+            "last_commit": "2026-08-19T02:04:36Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141814
+            "stars": 141858
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-15T00:01:50Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55944
+            "stars": 55943
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2023-04-09T13:38:15Z",
             "owner": "chrisvfritz",
             "repo": "prerender-spa-plugin",
-            "stars": 7272
+            "stars": 7271
           }
         },
         {
@@ -361,10 +361,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T03:50:00Z",
+            "last_commit": "2026-08-19T02:30:52Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60763
+            "stars": 60761
           }
         },
         {
@@ -442,7 +442,7 @@
             "last_commit": "2023-04-09T13:38:15Z",
             "owner": "chrisvfritz",
             "repo": "prerender-spa-plugin",
-            "stars": 7272
+            "stars": 7271
           }
         },
         {
@@ -519,7 +519,7 @@
             "last_commit": "2023-04-09T13:38:15Z",
             "owner": "chrisvfritz",
             "repo": "prerender-spa-plugin",
-            "stars": 7272
+            "stars": 7271
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2023-04-09T13:38:15Z",
             "owner": "chrisvfritz",
             "repo": "prerender-spa-plugin",
-            "stars": 7272
+            "stars": 7271
           }
         },
         {
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:01:05.463Z",
+    "last_updated": "2026-08-19T05:01:11.155Z",
     "original_repository": "brillout/awesome-universal-rendering",
     "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
     "enhanced_repository": "enhansome/enhansome-universal-rendering",
