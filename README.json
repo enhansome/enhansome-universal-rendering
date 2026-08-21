@@ -18,10 +18,10 @@
                         "archived": false,
                         "id": 70107786,
                         "language": "JavaScript",
-                        "last_commit": "2026-08-20T03:13:50Z",
+                        "last_commit": "2026-08-21T03:34:55Z",
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 141873
+                        "stars": 141885
                       }
                     },
                     {
@@ -88,7 +88,7 @@
                         "last_commit": "2024-03-11T08:45:43Z",
                         "owner": "jaredpalmer",
                         "repo": "razzle",
-                        "stars": 11028
+                        "stars": 11026
                       }
                     },
                     {
@@ -157,10 +157,10 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-20T03:13:50Z",
+                    "last_commit": "2026-08-21T03:34:55Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141873
+                    "stars": 141885
                   }
                 },
                 {
@@ -172,10 +172,10 @@
                     "archived": false,
                     "id": 36040894,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-19T18:23:45Z",
+                    "last_commit": "2026-08-20T20:50:14Z",
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55941
+                    "stars": 55942
                   }
                 },
                 {
@@ -345,10 +345,10 @@
                         "archived": false,
                         "id": 71995937,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-19T21:28:15Z",
+                        "last_commit": "2026-08-20T15:20:28Z",
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60764
+                        "stars": 60771
                       }
                     },
                     {
@@ -675,7 +675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:02:52.512Z",
+    "last_updated": "2026-08-21T05:03:28.089Z",
     "original_repository": "brillout/awesome-universal-rendering",
     "original_repository_id": 140283155,
     "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
