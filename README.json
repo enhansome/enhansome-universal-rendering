@@ -18,10 +18,10 @@
                         "archived": false,
                         "id": 70107786,
                         "language": "JavaScript",
-                        "last_commit": "2026-08-21T03:34:55Z",
+                        "last_commit": "2026-08-22T03:40:34Z",
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 141885
+                        "stars": 141880
                       }
                     },
                     {
@@ -157,10 +157,10 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-21T03:34:55Z",
+                    "last_commit": "2026-08-22T03:40:34Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141885
+                    "stars": 141880
                   }
                 },
                 {
@@ -172,10 +172,10 @@
                     "archived": false,
                     "id": 36040894,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-20T20:50:14Z",
+                    "last_commit": "2026-08-21T19:12:38Z",
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55942
+                    "stars": 55940
                   }
                 },
                 {
@@ -345,10 +345,10 @@
                         "archived": false,
                         "id": 71995937,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-20T15:20:28Z",
+                        "last_commit": "2026-08-21T23:41:44Z",
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60771
+                        "stars": 60776
                       }
                     },
                     {
@@ -675,7 +675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:03:28.089Z",
+    "last_updated": "2026-08-22T04:58:44.863Z",
     "original_repository": "brillout/awesome-universal-rendering",
     "original_repository_id": 140283155,
     "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
