@@ -18,10 +18,10 @@
                         "archived": false,
                         "id": 70107786,
                         "language": "JavaScript",
-                        "last_commit": "2026-08-22T03:40:34Z",
+                        "last_commit": "2026-08-23T00:10:25Z",
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 141880
+                        "stars": 141888
                       }
                     },
                     {
@@ -157,10 +157,10 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-22T03:40:34Z",
+                    "last_commit": "2026-08-23T00:10:25Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141880
+                    "stars": 141888
                   }
                 },
                 {
@@ -175,7 +175,7 @@
                     "last_commit": "2026-08-21T19:12:38Z",
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55940
+                    "stars": 55939
                   }
                 },
                 {
@@ -345,10 +345,10 @@
                         "archived": false,
                         "id": 71995937,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-21T23:41:44Z",
+                        "last_commit": "2026-08-22T17:12:59Z",
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60776
+                        "stars": 60780
                       }
                     },
                     {
@@ -675,7 +675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:58:44.863Z",
+    "last_updated": "2026-08-23T05:00:27.795Z",
     "original_repository": "brillout/awesome-universal-rendering",
     "original_repository_id": 140283155,
     "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
