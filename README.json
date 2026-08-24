@@ -18,10 +18,10 @@
                         "archived": false,
                         "id": 70107786,
                         "language": "JavaScript",
-                        "last_commit": "2026-08-23T00:10:25Z",
+                        "last_commit": "2026-08-24T05:08:04Z",
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 141888
+                        "stars": 141904
                       }
                     },
                     {
@@ -88,7 +88,7 @@
                         "last_commit": "2024-03-11T08:45:43Z",
                         "owner": "jaredpalmer",
                         "repo": "razzle",
-                        "stars": 11026
+                        "stars": 11025
                       }
                     },
                     {
@@ -157,10 +157,10 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-23T00:10:25Z",
+                    "last_commit": "2026-08-24T05:08:04Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141888
+                    "stars": 141904
                   }
                 },
                 {
@@ -345,10 +345,10 @@
                         "archived": false,
                         "id": 71995937,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-22T17:12:59Z",
+                        "last_commit": "2026-08-24T04:41:41Z",
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60780
+                        "stars": 60787
                       }
                     },
                     {
@@ -675,7 +675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:00:27.795Z",
+    "last_updated": "2026-08-24T05:10:07.410Z",
     "original_repository": "brillout/awesome-universal-rendering",
     "original_repository_id": 140283155,
     "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
