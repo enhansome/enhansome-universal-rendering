@@ -18,10 +18,10 @@
                         "archived": false,
                         "id": 70107786,
                         "language": "JavaScript",
-                        "last_commit": "2026-08-24T05:08:04Z",
+                        "last_commit": "2026-08-24T14:18:58Z",
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 141904
+                        "stars": 141914
                       }
                     },
                     {
@@ -140,6 +140,28 @@
                   "description": null,
                   "node_type": "group",
                   "title": "Libraries"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "cra-ssr",
+                      "description": "SSR app boilerplate based on CRA (without having ejected).",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 106729040,
+                        "language": "JavaScript",
+                        "last_commit": "2022-12-08T17:53:40Z",
+                        "owner": "cereallarceny",
+                        "repo": "cra-ssr",
+                        "stars": 479
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Boilerplates"
                 }
               ],
               "description": null,
@@ -157,10 +179,10 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T05:08:04Z",
+                    "last_commit": "2026-08-24T14:18:58Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141904
+                    "stars": 141914
                   }
                 },
                 {
@@ -175,7 +197,7 @@
                     "last_commit": "2026-08-21T19:12:38Z",
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55939
+                    "stars": 55941
                   }
                 },
                 {
@@ -345,10 +367,10 @@
                         "archived": false,
                         "id": 71995937,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-24T04:41:41Z",
+                        "last_commit": "2026-08-24T14:06:36Z",
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60787
+                        "stars": 60789
                       }
                     },
                     {
@@ -370,6 +392,28 @@
                   "description": null,
                   "node_type": "group",
                   "title": "Frameworks"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Goldpage",
+                      "description": "A do-one-thing-do-it-well library that supports all app types; \"SPA\", \"SSR\", \"Static Website\", etc.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 186423241,
+                        "language": "JavaScript",
+                        "last_commit": "2021-08-04T09:39:11Z",
+                        "owner": "brillout",
+                        "repo": "goldpage",
+                        "stars": 57
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Libraries"
                 }
               ],
               "description": null,
@@ -487,6 +531,28 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Angular Universal",
+                  "description": "Official packages for SSR with Angular.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 37953959,
+                    "language": "TypeScript",
+                    "last_commit": "2023-11-28T16:08:35Z",
+                    "owner": "angular",
+                    "repo": "universal",
+                    "stars": 3992
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SSR"
+            },
             {
               "children": [
                 {
@@ -675,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:10:07.410Z",
+    "last_updated": "2026-08-24T14:31:45.713Z",
     "original_repository": "brillout/awesome-universal-rendering",
     "original_repository_id": 140283155,
     "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
