@@ -21,7 +21,7 @@
                         "last_commit": "2026-08-25T03:27:15Z",
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 141923
+                        "stars": 141925
                       }
                     },
                     {
@@ -182,7 +182,7 @@
                     "last_commit": "2026-08-25T03:27:15Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141923
+                    "stars": 141925
                   }
                 },
                 {
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:03:38.887Z",
+    "last_updated": "2026-08-25T06:18:32.806Z",
     "original_repository": "brillout/awesome-universal-rendering",
     "original_repository_id": 140283155,
     "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
