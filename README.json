@@ -18,10 +18,10 @@
                         "archived": false,
                         "id": 70107786,
                         "language": "JavaScript",
-                        "last_commit": "2026-08-25T03:27:15Z",
+                        "last_commit": "2026-08-26T04:16:28Z",
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 141925
+                        "stars": 141931
                       }
                     },
                     {
@@ -51,7 +51,7 @@
                         "last_commit": "2021-03-09T17:40:10Z",
                         "owner": "redfin",
                         "repo": "react-server",
-                        "stars": 3866
+                        "stars": 3865
                       }
                     },
                     {
@@ -88,7 +88,7 @@
                         "last_commit": "2024-03-11T08:45:43Z",
                         "owner": "jaredpalmer",
                         "repo": "razzle",
-                        "stars": 11025
+                        "stars": 11024
                       }
                     },
                     {
@@ -155,7 +155,7 @@
                         "last_commit": "2022-12-08T17:53:40Z",
                         "owner": "cereallarceny",
                         "repo": "cra-ssr",
-                        "stars": 479
+                        "stars": 478
                       }
                     }
                   ],
@@ -179,10 +179,10 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-25T03:27:15Z",
+                    "last_commit": "2026-08-26T04:16:28Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141925
+                    "stars": 141931
                   }
                 },
                 {
@@ -197,7 +197,7 @@
                     "last_commit": "2026-08-21T19:12:38Z",
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55943
+                    "stars": 55942
                   }
                 },
                 {
@@ -367,10 +367,10 @@
                         "archived": false,
                         "id": 71995937,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-24T20:29:49Z",
+                        "last_commit": "2026-08-26T03:08:44Z",
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60792
+                        "stars": 60803
                       }
                     },
                     {
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:32.806Z",
+    "last_updated": "2026-08-26T05:03:49.223Z",
     "original_repository": "brillout/awesome-universal-rendering",
     "original_repository_id": 140283155,
     "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
