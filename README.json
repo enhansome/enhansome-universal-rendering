@@ -18,10 +18,10 @@
                         "archived": false,
                         "id": 70107786,
                         "language": "JavaScript",
-                        "last_commit": "2026-08-26T04:16:28Z",
+                        "last_commit": "2026-08-27T11:00:21Z",
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 141931
+                        "stars": 141958
                       }
                     },
                     {
@@ -179,10 +179,10 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-26T04:16:28Z",
+                    "last_commit": "2026-08-27T11:00:21Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141931
+                    "stars": 141958
                   }
                 },
                 {
@@ -194,7 +194,7 @@
                     "archived": false,
                     "id": 36040894,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-21T19:12:38Z",
+                    "last_commit": "2026-08-27T10:47:01Z",
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
                     "stars": 55942
@@ -367,10 +367,10 @@
                         "archived": false,
                         "id": 71995937,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-26T03:08:44Z",
+                        "last_commit": "2026-08-27T11:07:03Z",
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60803
+                        "stars": 60802
                       }
                     },
                     {
@@ -741,9 +741,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:03:49.223Z",
-    "original_repository": "brillout/awesome-universal-rendering",
-    "original_repository_id": 140283155,
+    "last_updated": "2026-08-27T12:13:24.572Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 140283155,
+      "language": null,
+      "last_commit": "2019-09-15T17:48:15Z",
+      "owner": "brillout",
+      "repo": "awesome-universal-rendering",
+      "stars": 351
+    },
     "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
     "enhanced_repository": "enhansome/enhansome-universal-rendering",
     "enhanced_repository_description": null,
