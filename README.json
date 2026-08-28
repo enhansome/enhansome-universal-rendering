@@ -18,11 +18,12 @@
                         "archived": false,
                         "id": 70107786,
                         "language": "JavaScript",
-                        "last_commit": "2026-08-27T15:04:34Z",
+                        "last_commit": "2026-08-28T16:29:23Z",
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 141960
-                      }
+                        "stars": 141971
+                      },
+                      "first_seen": "2026-08-28T16:47:07.248Z"
                     },
                     {
                       "node_type": "item",
@@ -37,7 +38,8 @@
                         "owner": "jaredpalmer",
                         "repo": "after.js",
                         "stars": 4090
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:47:07.248Z"
                     },
                     {
                       "node_type": "item",
@@ -52,7 +54,8 @@
                         "owner": "redfin",
                         "repo": "react-server",
                         "stars": 3865
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:47:07.248Z"
                     },
                     {
                       "node_type": "item",
@@ -67,7 +70,8 @@
                         "owner": "reframejs",
                         "repo": "reframe",
                         "stars": 431
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:47:07.248Z"
                     }
                   ],
                   "description": null,
@@ -89,7 +93,8 @@
                         "owner": "jaredpalmer",
                         "repo": "razzle",
                         "stars": 11024
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:47:07.248Z"
                     },
                     {
                       "node_type": "item",
@@ -104,7 +109,8 @@
                         "owner": "alidcast",
                         "repo": "rogue.js",
                         "stars": 1872
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:47:07.248Z"
                     },
                     {
                       "node_type": "item",
@@ -119,7 +125,8 @@
                         "owner": "faceyspacey",
                         "repo": "react-universal-component",
                         "stars": 1689
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:47:07.248Z"
                     },
                     {
                       "node_type": "item",
@@ -134,7 +141,8 @@
                         "owner": "brillout",
                         "repo": "goldpage",
                         "stars": 57
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:47:07.248Z"
                     }
                   ],
                   "description": null,
@@ -156,7 +164,8 @@
                         "owner": "cereallarceny",
                         "repo": "cra-ssr",
                         "stars": 478
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:47:07.248Z"
                     }
                   ],
                   "description": null,
@@ -179,11 +188,12 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T15:04:34Z",
+                    "last_commit": "2026-08-28T16:29:23Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141960
-                  }
+                    "stars": 141971
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -194,11 +204,12 @@
                     "archived": false,
                     "id": 36040894,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T10:47:01Z",
+                    "last_commit": "2026-08-28T03:41:15Z",
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55941
-                  }
+                    "stars": 55940
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -213,7 +224,8 @@
                     "owner": "react-static",
                     "repo": "react-static",
                     "stars": 10345
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -228,7 +240,8 @@
                     "owner": "MoOx",
                     "repo": "phenomic",
                     "stars": 3169
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -243,7 +256,8 @@
                     "owner": "reframejs",
                     "repo": "reframe",
                     "stars": 431
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -258,7 +272,8 @@
                     "owner": "brillout",
                     "repo": "goldpage",
                     "stars": 57
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 }
               ],
               "description": null,
@@ -280,7 +295,8 @@
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
                     "stars": 7271
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -295,7 +311,8 @@
                     "owner": "stereobooster",
                     "repo": "react-snap",
                     "stars": 5116
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -310,7 +327,8 @@
                     "owner": "geelen",
                     "repo": "react-snapshot",
                     "stars": 1655
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -325,7 +343,8 @@
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
                     "stars": 1601
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -340,7 +359,8 @@
                     "owner": "prisma-archive",
                     "repo": "prep",
                     "stars": 371
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 }
               ],
               "description": "Some static pre-renderers, instead of generating HTML upon a generated DOM, directly render your pages to HTML.",
@@ -367,11 +387,12 @@
                         "archived": false,
                         "id": 71995937,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-27T13:01:01Z",
+                        "last_commit": "2026-08-28T12:33:14Z",
                         "owner": "nuxt",
                         "repo": "nuxt",
                         "stars": 60802
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:47:07.248Z"
                     },
                     {
                       "node_type": "item",
@@ -386,7 +407,8 @@
                         "owner": "reframejs",
                         "repo": "reframe",
                         "stars": 431
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:47:07.248Z"
                     }
                   ],
                   "description": null,
@@ -408,7 +430,8 @@
                         "owner": "brillout",
                         "repo": "goldpage",
                         "stars": 57
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:47:07.248Z"
                     }
                   ],
                   "description": null,
@@ -435,7 +458,8 @@
                     "owner": "MoOx",
                     "repo": "phenomic",
                     "stars": 3169
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -450,7 +474,8 @@
                     "owner": "reframejs",
                     "repo": "reframe",
                     "stars": 431
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 }
               ],
               "description": null,
@@ -472,7 +497,8 @@
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
                     "stars": 7271
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -487,7 +513,8 @@
                     "owner": "stereobooster",
                     "repo": "react-snap",
                     "stars": 5116
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -502,7 +529,8 @@
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
                     "stars": 1601
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -517,7 +545,8 @@
                     "owner": "prisma-archive",
                     "repo": "prep",
                     "stars": 371
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 }
               ],
               "description": "Some static pre-renderers, instead of generating HTML upon a generated DOM, directly render your pages to HTML.",
@@ -546,7 +575,8 @@
                     "owner": "angular",
                     "repo": "universal",
                     "stars": 3992
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 }
               ],
               "description": null,
@@ -568,7 +598,8 @@
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
                     "stars": 7271
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -583,7 +614,8 @@
                     "owner": "stereobooster",
                     "repo": "react-snap",
                     "stars": 5116
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -598,7 +630,8 @@
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
                     "stars": 1601
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -613,7 +646,8 @@
                     "owner": "prisma-archive",
                     "repo": "prep",
                     "stars": 371
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 }
               ],
               "description": "Some static pre-renderers, instead of generating HTML upon a generated DOM, directly render your pages to HTML.",
@@ -642,7 +676,8 @@
                     "owner": "MoOx",
                     "repo": "phenomic",
                     "stars": 3169
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -657,7 +692,8 @@
                     "owner": "reframejs",
                     "repo": "reframe",
                     "stars": 431
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 }
               ],
               "description": null,
@@ -679,7 +715,8 @@
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
                     "stars": 7271
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -694,7 +731,8 @@
                     "owner": "stereobooster",
                     "repo": "react-snap",
                     "stars": 5116
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -709,7 +747,8 @@
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
                     "stars": 1601
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 },
                 {
                   "node_type": "item",
@@ -724,7 +763,8 @@
                     "owner": "prisma-archive",
                     "repo": "prep",
                     "stars": 371
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:47:07.248Z"
                 }
               ],
               "description": "Some static pre-renderers, instead of generating HTML upon a generated DOM, directly render your pages to HTML.",
@@ -741,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:22:47.795Z",
+    "last_updated": "2026-08-28T16:47:07.248Z",
     "original_repository_info": {
       "archived": false,
       "id": 140283155,
