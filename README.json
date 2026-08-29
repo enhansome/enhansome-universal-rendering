@@ -16,12 +16,32 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The React Framework",
+                        "homepage": "https://nextjs.org",
                         "id": 70107786,
                         "language": "JavaScript",
-                        "last_commit": "2026-08-28T16:29:23Z",
+                        "license": "MIT",
+                        "last_commit": "2026-08-29T00:19:20Z",
+                        "open_issues": 3638,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 141971
+                        "stars": 141980,
+                        "topics": [
+                          "blog",
+                          "browser",
+                          "compiler",
+                          "components",
+                          "hybrid",
+                          "nextjs",
+                          "node",
+                          "react",
+                          "server-rendering",
+                          "ssg",
+                          "static",
+                          "static-site-generator",
+                          "universal",
+                          "vercel"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:47:07.248Z"
                     },
@@ -32,12 +52,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Next.js-like framework for server-rendered React apps built with React Router",
+                        "homepage": "https://npm.im/@jaredpalmer/after",
                         "id": 110400917,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2024-02-26T16:18:59Z",
+                        "open_issues": 20,
                         "owner": "jaredpalmer",
                         "repo": "after.js",
-                        "stars": 4090
+                        "stars": 4090,
+                        "topics": [
+                          "razzle",
+                          "react",
+                          "react-router",
+                          "server-side-rendering",
+                          "ssr",
+                          "webpack"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:47:07.248Z"
                     },
@@ -48,12 +80,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": ":rocket: Blazing fast page load and seamless navigation.",
+                        "homepage": "https://react-server.io/",
                         "id": 51392574,
                         "language": "JavaScript",
+                        "license": "Apache-2.0",
                         "last_commit": "2021-03-09T17:40:10Z",
+                        "open_issues": 164,
                         "owner": "redfin",
                         "repo": "react-server",
-                        "stars": 3865
+                        "stars": 3865,
+                        "topics": [
+                          "isomorphic",
+                          "react",
+                          "react-server",
+                          "server",
+                          "ssr",
+                          "universal"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:47:07.248Z"
                     },
@@ -64,12 +108,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A new kind of web framework.",
+                        "homepage": null,
                         "id": 118527236,
                         "language": null,
+                        "license": null,
                         "last_commit": "2021-05-29T11:00:08Z",
+                        "open_issues": 2,
                         "owner": "reframejs",
                         "repo": "reframe",
-                        "stars": 431
+                        "stars": 431,
+                        "topics": [
+                          "javascript",
+                          "node",
+                          "react",
+                          "web-framework"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:47:07.248Z"
                     }
@@ -87,12 +141,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "✨ Create server-rendered universal JavaScript applications with no configuration",
+                        "homepage": "https://razzlejs.org",
                         "id": 51462299,
                         "language": "JavaScript",
+                        "license": "MIT",
                         "last_commit": "2024-03-11T08:45:43Z",
+                        "open_issues": 135,
                         "owner": "jaredpalmer",
                         "repo": "razzle",
-                        "stars": 11024
+                        "stars": 11024,
+                        "topics": [
+                          "isomorphic",
+                          "javascript",
+                          "parallel",
+                          "preact",
+                          "react",
+                          "typescript",
+                          "universal",
+                          "webpack"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:47:07.248Z"
                     },
@@ -103,12 +171,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "The \"nearly invisible\" way to server-render React applications",
+                        "homepage": null,
                         "id": 138501426,
                         "language": "JavaScript",
+                        "license": "MIT",
                         "last_commit": "2019-01-05T20:42:35Z",
+                        "open_issues": 6,
                         "owner": "alidcast",
                         "repo": "rogue.js",
-                        "stars": 1872
+                        "stars": 1872,
+                        "topics": [
+                          "apollo",
+                          "css-in-js",
+                          "react",
+                          "react-router-v4",
+                          "server-side-rendering"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:47:07.248Z"
                     },
@@ -119,12 +198,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "🚀 The final answer to a React Universal Component: simultaneous SSR + Code Splitting",
+                        "homepage": null,
                         "id": 93341544,
                         "language": "JavaScript",
+                        "license": "MIT",
                         "last_commit": "2022-08-27T05:26:42Z",
+                        "open_issues": 26,
                         "owner": "faceyspacey",
                         "repo": "react-universal-component",
-                        "stars": 1689
+                        "stars": 1689,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T16:47:07.248Z"
                     },
@@ -135,12 +219,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Page Builder.",
+                        "homepage": null,
                         "id": 186423241,
                         "language": "JavaScript",
+                        "license": "CC0-1.0",
                         "last_commit": "2021-08-04T09:39:11Z",
+                        "open_issues": 15,
                         "owner": "brillout",
                         "repo": "goldpage",
-                        "stars": 57
+                        "stars": 57,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T16:47:07.248Z"
                     }
@@ -158,12 +247,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[DEPRECATED] Server-side rendering with create-react-app, React Router v4, Helmet, Redux, and Thunk",
+                        "homepage": null,
                         "id": 106729040,
                         "language": "JavaScript",
+                        "license": null,
                         "last_commit": "2022-12-08T17:53:40Z",
+                        "open_issues": 33,
                         "owner": "cereallarceny",
                         "repo": "cra-ssr",
-                        "stars": 478
+                        "stars": 478,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T16:47:07.248Z"
                     }
@@ -186,12 +280,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The React Framework",
+                    "homepage": "https://nextjs.org",
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-28T16:29:23Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T00:19:20Z",
+                    "open_issues": 3638,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141971
+                    "stars": 141980,
+                    "topics": [
+                      "blog",
+                      "browser",
+                      "compiler",
+                      "components",
+                      "hybrid",
+                      "nextjs",
+                      "node",
+                      "react",
+                      "server-rendering",
+                      "ssg",
+                      "static",
+                      "static-site-generator",
+                      "universal",
+                      "vercel"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -202,12 +316,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "React-based framework with performance, scalability, and security built in.",
+                    "homepage": "https://www.gatsbyjs.com",
                     "id": 36040894,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T03:41:15Z",
+                    "open_issues": 437,
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55940
+                    "stars": 55941,
+                    "topics": [
+                      "blog",
+                      "compiler",
+                      "gatsby",
+                      "graphql",
+                      "react",
+                      "static-site-generator",
+                      "web-app"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -218,12 +345,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "⚛️ 🚀 A progressive static site generator for React.",
+                    "homepage": "https://github.com/react-static/react-static/discussions",
                     "id": 102987907,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-10-31T19:59:37Z",
+                    "open_issues": 1,
                     "owner": "react-static",
                     "repo": "react-static",
-                    "stars": 10345
+                    "stars": 10344,
+                    "topics": [
+                      "marketing",
+                      "react",
+                      "react-static",
+                      "static",
+                      "static-site",
+                      "static-site-generator"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -234,12 +373,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DEPRECATED. Please use Next.js instead.",
+                    "homepage": "https://nextjs.org",
                     "id": 41730120,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-09-07T07:44:51Z",
+                    "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3169
+                    "stars": 3169,
+                    "topics": [
+                      "compiler",
+                      "markdown",
+                      "phenomic",
+                      "react",
+                      "static-site-generator",
+                      "webpack",
+                      "website"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -250,12 +402,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A new kind of web framework.",
+                    "homepage": null,
                     "id": 118527236,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-05-29T11:00:08Z",
+                    "open_issues": 2,
                     "owner": "reframejs",
                     "repo": "reframe",
-                    "stars": 431
+                    "stars": 431,
+                    "topics": [
+                      "javascript",
+                      "node",
+                      "react",
+                      "web-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -266,12 +428,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Page Builder.",
+                    "homepage": null,
                     "id": 186423241,
                     "language": "JavaScript",
+                    "license": "CC0-1.0",
                     "last_commit": "2021-08-04T09:39:11Z",
+                    "open_issues": 15,
                     "owner": "brillout",
                     "repo": "goldpage",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 }
@@ -289,12 +456,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Prerenders static HTML in a single-page application.",
+                    "homepage": null,
                     "id": 54756921,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-09T13:38:15Z",
+                    "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7271
+                    "stars": 7271,
+                    "topics": [
+                      "prerender",
+                      "seo",
+                      "spa",
+                      "static-site-generator",
+                      "webpack",
+                      "webpack-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -305,12 +484,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "👻 Zero-configuration framework-agnostic static prerendering for SPAs",
+                    "homepage": null,
                     "id": 105412971,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-02T00:56:29Z",
+                    "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5116
+                    "stars": 5116,
+                    "topics": [
+                      "prerender",
+                      "react",
+                      "seo",
+                      "server-side-rendering",
+                      "ssr",
+                      "static-site-generator",
+                      "vue",
+                      "zero-configuration"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -321,12 +514,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A zero-configuration static pre-renderer for React apps",
+                    "homepage": null,
                     "id": 67405588,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-05-12T15:32:07Z",
+                    "open_issues": 71,
                     "owner": "geelen",
                     "repo": "react-snapshot",
-                    "stars": 1655
+                    "stars": 1655,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -337,12 +535,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimal, unopinionated static site generator powered by webpack",
+                    "homepage": null,
                     "id": 33834405,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-12-28T12:27:40Z",
+                    "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1601
+                    "stars": 1601,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -353,12 +556,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pre-renders your web app (React, Vue, Angular, ...) into static HTML based on your specified routes enabling SEO for single page applications.",
+                    "homepage": null,
                     "id": 58274171,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-11-24T12:51:38Z",
+                    "open_issues": 13,
                     "owner": "prisma-archive",
                     "repo": "prep",
-                    "stars": 371
+                    "stars": 371,
+                    "topics": [
+                      "apollographql",
+                      "graphcool",
+                      "prerender",
+                      "react",
+                      "seo",
+                      "server-side-rendering",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 }
@@ -385,12 +601,31 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "the full-stack Vue framework",
+                        "homepage": "https://nuxt.com",
                         "id": 71995937,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-28T12:33:14Z",
+                        "license": "MIT",
+                        "last_commit": "2026-08-29T00:08:43Z",
+                        "open_issues": 541,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60802
+                        "stars": 60802,
+                        "topics": [
+                          "csr",
+                          "framework",
+                          "full-stack",
+                          "hacktoberfest",
+                          "hybrid",
+                          "node",
+                          "nuxt",
+                          "server-rendering",
+                          "ssg",
+                          "ssr",
+                          "static-site-generator",
+                          "universal",
+                          "vue"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:47:07.248Z"
                     },
@@ -401,12 +636,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A new kind of web framework.",
+                        "homepage": null,
                         "id": 118527236,
                         "language": null,
+                        "license": null,
                         "last_commit": "2021-05-29T11:00:08Z",
+                        "open_issues": 2,
                         "owner": "reframejs",
                         "repo": "reframe",
-                        "stars": 431
+                        "stars": 431,
+                        "topics": [
+                          "javascript",
+                          "node",
+                          "react",
+                          "web-framework"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:47:07.248Z"
                     }
@@ -424,12 +669,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Page Builder.",
+                        "homepage": null,
                         "id": 186423241,
                         "language": "JavaScript",
+                        "license": "CC0-1.0",
                         "last_commit": "2021-08-04T09:39:11Z",
+                        "open_issues": 15,
                         "owner": "brillout",
                         "repo": "goldpage",
-                        "stars": 57
+                        "stars": 57,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T16:47:07.248Z"
                     }
@@ -452,12 +702,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DEPRECATED. Please use Next.js instead.",
+                    "homepage": "https://nextjs.org",
                     "id": 41730120,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-09-07T07:44:51Z",
+                    "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3169
+                    "stars": 3169,
+                    "topics": [
+                      "compiler",
+                      "markdown",
+                      "phenomic",
+                      "react",
+                      "static-site-generator",
+                      "webpack",
+                      "website"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -468,12 +731,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A new kind of web framework.",
+                    "homepage": null,
                     "id": 118527236,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-05-29T11:00:08Z",
+                    "open_issues": 2,
                     "owner": "reframejs",
                     "repo": "reframe",
-                    "stars": 431
+                    "stars": 431,
+                    "topics": [
+                      "javascript",
+                      "node",
+                      "react",
+                      "web-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 }
@@ -491,12 +764,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Prerenders static HTML in a single-page application.",
+                    "homepage": null,
                     "id": 54756921,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-09T13:38:15Z",
+                    "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7271
+                    "stars": 7271,
+                    "topics": [
+                      "prerender",
+                      "seo",
+                      "spa",
+                      "static-site-generator",
+                      "webpack",
+                      "webpack-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -507,12 +792,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "👻 Zero-configuration framework-agnostic static prerendering for SPAs",
+                    "homepage": null,
                     "id": 105412971,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-02T00:56:29Z",
+                    "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5116
+                    "stars": 5116,
+                    "topics": [
+                      "prerender",
+                      "react",
+                      "seo",
+                      "server-side-rendering",
+                      "ssr",
+                      "static-site-generator",
+                      "vue",
+                      "zero-configuration"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -523,12 +822,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimal, unopinionated static site generator powered by webpack",
+                    "homepage": null,
                     "id": 33834405,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-12-28T12:27:40Z",
+                    "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1601
+                    "stars": 1601,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -539,12 +843,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pre-renders your web app (React, Vue, Angular, ...) into static HTML based on your specified routes enabling SEO for single page applications.",
+                    "homepage": null,
                     "id": 58274171,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-11-24T12:51:38Z",
+                    "open_issues": 13,
                     "owner": "prisma-archive",
                     "repo": "prep",
-                    "stars": 371
+                    "stars": 371,
+                    "topics": [
+                      "apollographql",
+                      "graphcool",
+                      "prerender",
+                      "react",
+                      "seo",
+                      "server-side-rendering",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 }
@@ -569,12 +886,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Server-side rendering and Prerendering for Angular",
+                    "homepage": null,
                     "id": 37953959,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-11-28T16:08:35Z",
+                    "open_issues": 0,
                     "owner": "angular",
                     "repo": "universal",
-                    "stars": 3992
+                    "stars": 3992,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 }
@@ -592,12 +914,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Prerenders static HTML in a single-page application.",
+                    "homepage": null,
                     "id": 54756921,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-09T13:38:15Z",
+                    "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7271
+                    "stars": 7271,
+                    "topics": [
+                      "prerender",
+                      "seo",
+                      "spa",
+                      "static-site-generator",
+                      "webpack",
+                      "webpack-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -608,12 +942,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "👻 Zero-configuration framework-agnostic static prerendering for SPAs",
+                    "homepage": null,
                     "id": 105412971,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-02T00:56:29Z",
+                    "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5116
+                    "stars": 5116,
+                    "topics": [
+                      "prerender",
+                      "react",
+                      "seo",
+                      "server-side-rendering",
+                      "ssr",
+                      "static-site-generator",
+                      "vue",
+                      "zero-configuration"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -624,12 +972,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimal, unopinionated static site generator powered by webpack",
+                    "homepage": null,
                     "id": 33834405,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-12-28T12:27:40Z",
+                    "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1601
+                    "stars": 1601,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -640,12 +993,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pre-renders your web app (React, Vue, Angular, ...) into static HTML based on your specified routes enabling SEO for single page applications.",
+                    "homepage": null,
                     "id": 58274171,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-11-24T12:51:38Z",
+                    "open_issues": 13,
                     "owner": "prisma-archive",
                     "repo": "prep",
-                    "stars": 371
+                    "stars": 371,
+                    "topics": [
+                      "apollographql",
+                      "graphcool",
+                      "prerender",
+                      "react",
+                      "seo",
+                      "server-side-rendering",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 }
@@ -670,12 +1036,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DEPRECATED. Please use Next.js instead.",
+                    "homepage": "https://nextjs.org",
                     "id": 41730120,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-09-07T07:44:51Z",
+                    "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3169
+                    "stars": 3169,
+                    "topics": [
+                      "compiler",
+                      "markdown",
+                      "phenomic",
+                      "react",
+                      "static-site-generator",
+                      "webpack",
+                      "website"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -686,12 +1065,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A new kind of web framework.",
+                    "homepage": null,
                     "id": 118527236,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-05-29T11:00:08Z",
+                    "open_issues": 2,
                     "owner": "reframejs",
                     "repo": "reframe",
-                    "stars": 431
+                    "stars": 431,
+                    "topics": [
+                      "javascript",
+                      "node",
+                      "react",
+                      "web-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 }
@@ -709,12 +1098,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Prerenders static HTML in a single-page application.",
+                    "homepage": null,
                     "id": 54756921,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-09T13:38:15Z",
+                    "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7271
+                    "stars": 7271,
+                    "topics": [
+                      "prerender",
+                      "seo",
+                      "spa",
+                      "static-site-generator",
+                      "webpack",
+                      "webpack-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -725,12 +1126,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "👻 Zero-configuration framework-agnostic static prerendering for SPAs",
+                    "homepage": null,
                     "id": 105412971,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-02T00:56:29Z",
+                    "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5116
+                    "stars": 5116,
+                    "topics": [
+                      "prerender",
+                      "react",
+                      "seo",
+                      "server-side-rendering",
+                      "ssr",
+                      "static-site-generator",
+                      "vue",
+                      "zero-configuration"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -741,12 +1156,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimal, unopinionated static site generator powered by webpack",
+                    "homepage": null,
                     "id": 33834405,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-12-28T12:27:40Z",
+                    "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1601
+                    "stars": 1601,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 },
@@ -757,12 +1177,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pre-renders your web app (React, Vue, Angular, ...) into static HTML based on your specified routes enabling SEO for single page applications.",
+                    "homepage": null,
                     "id": 58274171,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-11-24T12:51:38Z",
+                    "open_issues": 13,
                     "owner": "prisma-archive",
                     "repo": "prep",
-                    "stars": 371
+                    "stars": 371,
+                    "topics": [
+                      "apollographql",
+                      "graphcool",
+                      "prerender",
+                      "react",
+                      "seo",
+                      "server-side-rendering",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
                 }
@@ -781,15 +1214,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:47:07.248Z",
+    "last_updated": "2026-08-29T04:46:01.003Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
+      "homepage": null,
       "id": 140283155,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2019-09-15T17:48:15Z",
+      "open_issues": 0,
       "owner": "brillout",
       "repo": "awesome-universal-rendering",
-      "stars": 351
+      "stars": 351,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "server-rendering",
+        "server-side-rendering",
+        "ssr"
+      ]
     },
     "original_repository_sha": "7988294096745e4447b9185a4fbfcde75adfb4c4",
     "enhanced_repository": "enhansome/enhansome-universal-rendering",
