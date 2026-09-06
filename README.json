@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-09-05T08:18:35Z",
-                        "open_issues": 3282,
+                        "last_commit": "2026-09-06T02:15:25Z",
+                        "open_issues": 3278,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 142096,
+                        "stars": 142133,
                         "topics": [
                           "blog",
                           "browser",
@@ -61,7 +61,7 @@
                         "open_issues": 20,
                         "owner": "jaredpalmer",
                         "repo": "after.js",
-                        "stars": 4090,
+                        "stars": 4089,
                         "topics": [
                           "razzle",
                           "react",
@@ -89,7 +89,7 @@
                         "open_issues": 164,
                         "owner": "redfin",
                         "repo": "react-server",
-                        "stars": 3865,
+                        "stars": 3864,
                         "topics": [
                           "isomorphic",
                           "react",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-05T08:18:35Z",
-                    "open_issues": 3282,
+                    "last_commit": "2026-09-06T02:15:25Z",
+                    "open_issues": 3278,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142096,
+                    "stars": 142133,
                     "topics": [
                       "blog",
                       "browser",
@@ -322,10 +322,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-09-04T03:44:46Z",
-                    "open_issues": 442,
+                    "open_issues": 443,
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55936,
+                    "stars": 55939,
                     "topics": [
                       "blog",
                       "compiler",
@@ -354,7 +354,7 @@
                     "open_issues": 1,
                     "owner": "react-static",
                     "repo": "react-static",
-                    "stars": 10347,
+                    "stars": 10348,
                     "topics": [
                       "marketing",
                       "react",
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-09-05T07:33:03Z",
-                        "open_issues": 533,
+                        "last_commit": "2026-09-06T08:44:07Z",
+                        "open_issues": 526,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60818,
+                        "stars": 60824,
                         "topics": [
                           "csr",
                           "framework",
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:28:05.213Z",
+    "last_updated": "2026-09-06T08:45:55.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
