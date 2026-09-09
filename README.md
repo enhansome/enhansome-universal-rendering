@@ -239,17 +239,17 @@ Leading to the following techniques:
 
 ##### Frameworks
 
-* [Next.js](https://github.com/zeit/next.js#readme) ⭐ 142,212 | 🐛 3,291 | 🌐 JavaScript | 📅 2026-09-08 - The most popular SSR tool.
+* [Next.js](https://github.com/zeit/next.js#readme) ⭐ 142,232 | 🐛 3,302 | 🌐 JavaScript | 📅 2026-09-09 - The most popular SSR tool.
 * [After.js](https://github.com/jaredpalmer/after.js#readme) ⭐ 4,089 | 🐛 20 | 🌐 TypeScript | 📅 2024-02-26 - Similar to Next.js but with routing based on React Router.
-* [React Server](https://github.com/redfin/react-server#readme) ⭐ 3,863 | 🐛 164 | 🌐 JavaScript | 📅 2021-03-09
+* [React Server](https://github.com/redfin/react-server#readme) ⭐ 3,862 | 🐛 164 | 🌐 JavaScript | 📅 2021-03-09
 * [Reframe](https://github.com/reframejs/reframe#readme) ⭐ 430 | 🐛 2 | 📅 2021-05-29 - Flexible web framework. It does SSR by default and can be used as SSG.
 * [Fusion.js](https://github.com/fusionjs) - Plugin-based universal web framework maintained by Uber.
 
 ##### Libraries
 
-* [Razzle](https://github.com/jaredpalmer/razzle#readme) ⭐ 11,022 | 🐛 135 | 🌐 JavaScript | 📅 2024-03-11 - Handles the building. You do the rest.
+* [Razzle](https://github.com/jaredpalmer/razzle#readme) ⭐ 11,021 | 🐛 135 | 🌐 JavaScript | 📅 2024-03-11 - Handles the building. You do the rest.
 * [Rogue.js](https://github.com/alidcastano/rogue.js#readme) ⚠️ Archived - SSR utilities focused on flexibility. First-class support for React Router, Apollo GraphQL, Redux, Emotion, and Styled-Components. The build step is up to you (but you can use Razzle.)
-* [React Universal Component](https://github.com/faceyspacey/react-universal-component#readme) ⭐ 1,688 | 🐛 26 | 🌐 JavaScript | 📅 2022-08-27 - Utility to code split your SSR app.
+* [React Universal Component](https://github.com/faceyspacey/react-universal-component#readme) ⭐ 1,687 | 🐛 26 | 🌐 JavaScript | 📅 2022-08-27 - Utility to code split your SSR app.
 * [Goldpage](https://github.com/reframejs/goldpage) ⭐ 57 | 🐛 15 | 🌐 JavaScript | 📅 2021-08-04 - A do-one-thing-do-it-well library that supports all app types; "SPA", "SSR", "Static Website", etc.
 
 ##### Boilerplates
@@ -258,9 +258,9 @@ Leading to the following techniques:
 
 #### SSG
 
-* [Next.js](https://github.com/zeit/next.js#readme) ⭐ 142,212 | 🐛 3,291 | 🌐 JavaScript | 📅 2026-09-08 - Although primarily focused on SSR, Next.js can also generate static sites.
-* [Gatsby.js](https://github.com/gatsbyjs/gatsby#readme) ⭐ 55,940 | 🐛 443 | 🌐 JavaScript | 📅 2026-09-08 - SSG based on React and GraphQL.
-* [React Static](https://github.com/nozzle/react-static#readme) ⭐ 10,347 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-31 - SSG based on React and focused on simplicity.
+* [Next.js](https://github.com/zeit/next.js#readme) ⭐ 142,232 | 🐛 3,302 | 🌐 JavaScript | 📅 2026-09-09 - Although primarily focused on SSR, Next.js can also generate static sites.
+* [Gatsby.js](https://github.com/gatsbyjs/gatsby#readme) ⭐ 55,940 | 🐛 443 | 🌐 JavaScript | 📅 2026-09-09 - SSG based on React and GraphQL.
+* [React Static](https://github.com/nozzle/react-static#readme) ⭐ 10,346 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-31 - SSG based on React and focused on simplicity.
 * [Phenomic](https://github.com/phenomic/phenomic#readme) ⚠️ Archived - SSG based on a flexible plugin system.
 * [Reframe](https://github.com/reframejs/reframe#readme) ⭐ 430 | 🐛 2 | 📅 2021-05-29 - Flexible web framework. It does SSR by default and can be used as SSG.
 * [Goldpage](https://github.com/reframejs/goldpage) ⭐ 57 | 🐛 15 | 🌐 JavaScript | 📅 2021-08-04 - A do-one-thing-do-it-well library that supports all app types; "SPA", "SSR", "Static Website", etc.
@@ -288,10 +288,10 @@ Automatically and regularly render your deployed website to HTML.
 *Some static pre-renderers, instead of generating HTML upon a generated DOM, directly render your pages to HTML.*
 
 * [Prerender SPA Plugin](https://github.com/chrisvfritz/prerender-spa-plugin#readme) ⚠️ Archived - Uses Puppeteer to crawl & render your pages.
-* [react-snap](https://github.com/stereobooster/react-snap#readme) ⭐ 5,117 | 🐛 192 | 🌐 JavaScript | 📅 2026-02-02 - Uses Puppeteer to crawl & render your pages.
-* [React Snapshot](https://github.com/geelen/react-snapshot#readme) ⭐ 1,655 | 🐛 71 | 🌐 JavaScript | 📅 2021-05-12 - Pre-renders React apps at build-time. Uses `require('react-dom/server').renderToString` to directly render the HTML. Uses JSDOM as headless browser to automatically discover your app's URLs.
+* [react-snap](https://github.com/stereobooster/react-snap#readme) ⭐ 5,116 | 🐛 192 | 🌐 JavaScript | 📅 2026-02-02 - Uses Puppeteer to crawl & render your pages.
+* [React Snapshot](https://github.com/geelen/react-snapshot#readme) ⭐ 1,654 | 🐛 71 | 🌐 JavaScript | 📅 2021-05-12 - Pre-renders React apps at build-time. Uses `require('react-dom/server').renderToString` to directly render the HTML. Uses JSDOM as headless browser to automatically discover your app's URLs.
 * [SSG webpack plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin#readme) ⭐ 1,601 | 🐛 45 | 🌐 JavaScript | 📅 2018-12-28 - Directly render your pages to HTML. You provide render functions and routes. All routes are rendered at build-time using the render functions you provided. Also has a crawl mode to use a headless browser to automatically discover your website's URLs.
-* [prep](https://github.com/prismagraphql/prep#readme) ⭐ 371 | 🐛 13 | 🌐 JavaScript | 📅 2018-11-24 - Uses Chromeless to crawl & render your pages.
+* [prep](https://github.com/prismagraphql/prep#readme) ⭐ 370 | 🐛 13 | 🌐 JavaScript | 📅 2018-11-24 - Uses Chromeless to crawl & render your pages.
 
 <br/>
 
@@ -301,7 +301,7 @@ Automatically and regularly render your deployed website to HTML.
 
 ##### Frameworks
 
-* [Nuxt](https://github.com/nuxt/nuxt.js#readme) ⭐ 60,831 | 🐛 473 | 🌐 TypeScript | 📅 2026-09-08 - Similar to Next.js but for Vue.
+* [Nuxt](https://github.com/nuxt/nuxt.js#readme) ⭐ 60,832 | 🐛 472 | 🌐 TypeScript | 📅 2026-09-09 - Similar to Next.js but for Vue.
 * [Reframe](https://github.com/reframejs/reframe#readme) ⭐ 430 | 🐛 2 | 📅 2021-05-29 - Flexible web framework. It does SSR by default and can be used as SSG.
 
 ##### Libraries
@@ -337,9 +337,9 @@ Automatically and regularly render your deployed website to HTML.
 *Some static pre-renderers, instead of generating HTML upon a generated DOM, directly render your pages to HTML.*
 
 * [Prerender SPA Plugin](https://github.com/chrisvfritz/prerender-spa-plugin#readme) ⚠️ Archived - Uses Puppeteer to crawl & render your pages.
-* [react-snap](https://github.com/stereobooster/react-snap#readme) ⭐ 5,117 | 🐛 192 | 🌐 JavaScript | 📅 2026-02-02 - Uses Puppeteer to crawl & render your pages.
+* [react-snap](https://github.com/stereobooster/react-snap#readme) ⭐ 5,116 | 🐛 192 | 🌐 JavaScript | 📅 2026-02-02 - Uses Puppeteer to crawl & render your pages.
 * [SSG webpack plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin#readme) ⭐ 1,601 | 🐛 45 | 🌐 JavaScript | 📅 2018-12-28 - Directly render your pages to HTML. You provide render functions and routes. All routes are rendered at build-time using the render functions you provided. Also has a crawl mode to use a headless browser to automatically discover your website's URLs.
-* [prep](https://github.com/prismagraphql/prep#readme) ⭐ 371 | 🐛 13 | 🌐 JavaScript | 📅 2018-11-24 - Uses Chromeless to crawl & render your pages.
+* [prep](https://github.com/prismagraphql/prep#readme) ⭐ 370 | 🐛 13 | 🌐 JavaScript | 📅 2018-11-24 - Uses Chromeless to crawl & render your pages.
 
 <br/>
 
@@ -372,9 +372,9 @@ Automatically and regularly render your deployed website to HTML.
 *Some static pre-renderers, instead of generating HTML upon a generated DOM, directly render your pages to HTML.*
 
 * [Prerender SPA Plugin](https://github.com/chrisvfritz/prerender-spa-plugin#readme) ⚠️ Archived - Uses Puppeteer to crawl & render your pages.
-* [react-snap](https://github.com/stereobooster/react-snap#readme) ⭐ 5,117 | 🐛 192 | 🌐 JavaScript | 📅 2026-02-02 - Uses Puppeteer to crawl & render your pages.
+* [react-snap](https://github.com/stereobooster/react-snap#readme) ⭐ 5,116 | 🐛 192 | 🌐 JavaScript | 📅 2026-02-02 - Uses Puppeteer to crawl & render your pages.
 * [SSG webpack plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin#readme) ⭐ 1,601 | 🐛 45 | 🌐 JavaScript | 📅 2018-12-28 - Directly render your pages to HTML. You provide render functions and routes. All routes are rendered at build-time using the render functions you provided. Also has a crawl mode to use a headless browser to automatically discover your website's URLs.
-* [prep](https://github.com/prismagraphql/prep#readme) ⭐ 371 | 🐛 13 | 🌐 JavaScript | 📅 2018-11-24 - Uses Chromeless to crawl & render your pages.
+* [prep](https://github.com/prismagraphql/prep#readme) ⭐ 370 | 🐛 13 | 🌐 JavaScript | 📅 2018-11-24 - Uses Chromeless to crawl & render your pages.
 
 <br/>
 
@@ -408,9 +408,9 @@ Automatically and regularly render your deployed website to HTML.
 *Some static pre-renderers, instead of generating HTML upon a generated DOM, directly render your pages to HTML.*
 
 * [Prerender SPA Plugin](https://github.com/chrisvfritz/prerender-spa-plugin#readme) ⚠️ Archived - Uses Puppeteer to crawl & render your pages.
-* [react-snap](https://github.com/stereobooster/react-snap#readme) ⭐ 5,117 | 🐛 192 | 🌐 JavaScript | 📅 2026-02-02 - Uses Puppeteer to crawl & render your pages.
+* [react-snap](https://github.com/stereobooster/react-snap#readme) ⭐ 5,116 | 🐛 192 | 🌐 JavaScript | 📅 2026-02-02 - Uses Puppeteer to crawl & render your pages.
 * [SSG webpack plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin#readme) ⭐ 1,601 | 🐛 45 | 🌐 JavaScript | 📅 2018-12-28 - Directly render your pages to HTML. You provide render functions and routes. All routes are rendered at build-time using the render functions you provided. Also has a crawl mode to use a headless browser to automatically discover your website's URLs.
-* [prep](https://github.com/prismagraphql/prep#readme) ⭐ 371 | 🐛 13 | 🌐 JavaScript | 📅 2018-11-24 - Uses Chromeless to crawl & render your pages.
+* [prep](https://github.com/prismagraphql/prep#readme) ⭐ 370 | 🐛 13 | 🌐 JavaScript | 📅 2018-11-24 - Uses Chromeless to crawl & render your pages.
 
 <!---
 
@@ -492,4 +492,4 @@ Automatically and regularly render your deployed website to HTML.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

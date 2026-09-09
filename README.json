@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-09-08T08:55:48Z",
-                        "open_issues": 3291,
+                        "last_commit": "2026-09-09T08:25:57Z",
+                        "open_issues": 3302,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 142212,
+                        "stars": 142232,
                         "topics": [
                           "blog",
                           "browser",
@@ -89,7 +89,7 @@
                         "open_issues": 164,
                         "owner": "redfin",
                         "repo": "react-server",
-                        "stars": 3863,
+                        "stars": 3862,
                         "topics": [
                           "isomorphic",
                           "react",
@@ -150,7 +150,7 @@
                         "open_issues": 135,
                         "owner": "jaredpalmer",
                         "repo": "razzle",
-                        "stars": 11022,
+                        "stars": 11021,
                         "topics": [
                           "isomorphic",
                           "javascript",
@@ -207,7 +207,7 @@
                         "open_issues": 26,
                         "owner": "faceyspacey",
                         "repo": "react-universal-component",
-                        "stars": 1688,
+                        "stars": 1687,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:47:07.248Z"
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-08T08:55:48Z",
-                    "open_issues": 3291,
+                    "last_commit": "2026-09-09T08:25:57Z",
+                    "open_issues": 3302,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142212,
+                    "stars": 142232,
                     "topics": [
                       "blog",
                       "browser",
@@ -321,7 +321,7 @@
                     "id": 36040894,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-08T08:51:37Z",
+                    "last_commit": "2026-09-09T02:51:06Z",
                     "open_issues": 443,
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
@@ -354,7 +354,7 @@
                     "open_issues": 1,
                     "owner": "react-static",
                     "repo": "react-static",
-                    "stars": 10347,
+                    "stars": 10346,
                     "topics": [
                       "marketing",
                       "react",
@@ -382,7 +382,7 @@
                     "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3169,
+                    "stars": 3168,
                     "topics": [
                       "compiler",
                       "markdown",
@@ -465,7 +465,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7270,
+                    "stars": 7269,
                     "topics": [
                       "prerender",
                       "seo",
@@ -493,7 +493,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5117,
+                    "stars": 5116,
                     "topics": [
                       "prerender",
                       "react",
@@ -523,7 +523,7 @@
                     "open_issues": 71,
                     "owner": "geelen",
                     "repo": "react-snapshot",
-                    "stars": 1655,
+                    "stars": 1654,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -565,7 +565,7 @@
                     "open_issues": 13,
                     "owner": "prisma-archive",
                     "repo": "prep",
-                    "stars": 371,
+                    "stars": 370,
                     "topics": [
                       "apollographql",
                       "graphcool",
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-09-08T08:42:25Z",
-                        "open_issues": 473,
+                        "last_commit": "2026-09-09T08:53:40Z",
+                        "open_issues": 472,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60831,
+                        "stars": 60832,
                         "topics": [
                           "csr",
                           "framework",
@@ -711,7 +711,7 @@
                     "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3169,
+                    "stars": 3168,
                     "topics": [
                       "compiler",
                       "markdown",
@@ -773,7 +773,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7270,
+                    "stars": 7269,
                     "topics": [
                       "prerender",
                       "seo",
@@ -801,7 +801,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5117,
+                    "stars": 5116,
                     "topics": [
                       "prerender",
                       "react",
@@ -852,7 +852,7 @@
                     "open_issues": 13,
                     "owner": "prisma-archive",
                     "repo": "prep",
-                    "stars": 371,
+                    "stars": 370,
                     "topics": [
                       "apollographql",
                       "graphcool",
@@ -923,7 +923,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7270,
+                    "stars": 7269,
                     "topics": [
                       "prerender",
                       "seo",
@@ -951,7 +951,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5117,
+                    "stars": 5116,
                     "topics": [
                       "prerender",
                       "react",
@@ -1002,7 +1002,7 @@
                     "open_issues": 13,
                     "owner": "prisma-archive",
                     "repo": "prep",
-                    "stars": 371,
+                    "stars": 370,
                     "topics": [
                       "apollographql",
                       "graphcool",
@@ -1045,7 +1045,7 @@
                     "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3169,
+                    "stars": 3168,
                     "topics": [
                       "compiler",
                       "markdown",
@@ -1107,7 +1107,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7270,
+                    "stars": 7269,
                     "topics": [
                       "prerender",
                       "seo",
@@ -1135,7 +1135,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5117,
+                    "stars": 5116,
                     "topics": [
                       "prerender",
                       "react",
@@ -1186,7 +1186,7 @@
                     "open_issues": 13,
                     "owner": "prisma-archive",
                     "repo": "prep",
-                    "stars": 371,
+                    "stars": 370,
                     "topics": [
                       "apollographql",
                       "graphcool",
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:57:43.327Z",
+    "last_updated": "2026-09-09T09:04:03.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
