@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-09-19T08:29:21Z",
-                        "open_issues": 3453,
+                        "last_commit": "2026-09-20T05:46:08Z",
+                        "open_issues": 3460,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 142348,
+                        "stars": 142389,
                         "topics": [
                           "blog",
                           "browser",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T08:29:21Z",
-                    "open_issues": 3453,
+                    "last_commit": "2026-09-20T05:46:08Z",
+                    "open_issues": 3460,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142348,
+                    "stars": 142389,
                     "topics": [
                       "blog",
                       "browser",
@@ -325,7 +325,7 @@
                     "open_issues": 450,
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55938,
+                    "stars": 55939,
                     "topics": [
                       "blog",
                       "compiler",
@@ -354,7 +354,7 @@
                     "open_issues": 1,
                     "owner": "react-static",
                     "repo": "react-static",
-                    "stars": 10346,
+                    "stars": 10345,
                     "topics": [
                       "marketing",
                       "react",
@@ -382,7 +382,7 @@
                     "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3168,
+                    "stars": 3167,
                     "topics": [
                       "compiler",
                       "markdown",
@@ -544,7 +544,7 @@
                     "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1601,
+                    "stars": 1600,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-09-19T08:08:13Z",
-                        "open_issues": 478,
+                        "last_commit": "2026-09-19T22:18:46Z",
+                        "open_issues": 479,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60879,
+                        "stars": 60881,
                         "topics": [
                           "csr",
                           "framework",
@@ -711,7 +711,7 @@
                     "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3168,
+                    "stars": 3167,
                     "topics": [
                       "compiler",
                       "markdown",
@@ -831,7 +831,7 @@
                     "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1601,
+                    "stars": 1600,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -981,7 +981,7 @@
                     "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1601,
+                    "stars": 1600,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -1045,7 +1045,7 @@
                     "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3168,
+                    "stars": 3167,
                     "topics": [
                       "compiler",
                       "markdown",
@@ -1165,7 +1165,7 @@
                     "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1601,
+                    "stars": 1600,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:53:23.445Z",
+    "last_updated": "2026-09-20T09:23:05.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
