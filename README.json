@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-09-28T11:06:39Z",
-                        "open_issues": 3524,
+                        "last_commit": "2026-09-29T10:30:55Z",
+                        "open_issues": 3535,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 142825,
+                        "stars": 142882,
                         "topics": [
                           "blog",
                           "browser",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-28T11:06:39Z",
-                    "open_issues": 3524,
+                    "last_commit": "2026-09-29T10:30:55Z",
+                    "open_issues": 3535,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142825,
+                    "stars": 142882,
                     "topics": [
                       "blog",
                       "browser",
@@ -354,7 +354,7 @@
                     "open_issues": 1,
                     "owner": "react-static",
                     "repo": "react-static",
-                    "stars": 10341,
+                    "stars": 10340,
                     "topics": [
                       "marketing",
                       "react",
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-09-28T09:52:45Z",
-                        "open_issues": 460,
+                        "last_commit": "2026-09-29T10:48:53Z",
+                        "open_issues": 458,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60905,
+                        "stars": 60908,
                         "topics": [
                           "csr",
                           "framework",
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:07:12.192Z",
+    "last_updated": "2026-09-29T10:49:19.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
