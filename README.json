@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-09-30T10:36:18Z",
-                        "open_issues": 3534,
+                        "last_commit": "2026-10-01T10:50:15Z",
+                        "open_issues": 3544,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 142921,
+                        "stars": 142961,
                         "topics": [
                           "blog",
                           "browser",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-30T10:36:18Z",
-                    "open_issues": 3534,
+                    "last_commit": "2026-10-01T10:50:15Z",
+                    "open_issues": 3544,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142921,
+                    "stars": 142961,
                     "topics": [
                       "blog",
                       "browser",
@@ -325,7 +325,7 @@
                     "open_issues": 451,
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55943,
+                    "stars": 55941,
                     "topics": [
                       "blog",
                       "compiler",
@@ -354,7 +354,7 @@
                     "open_issues": 1,
                     "owner": "react-static",
                     "repo": "react-static",
-                    "stars": 10339,
+                    "stars": 10338,
                     "topics": [
                       "marketing",
                       "react",
@@ -465,7 +465,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7264,
+                    "stars": 7263,
                     "topics": [
                       "prerender",
                       "seo",
@@ -544,7 +544,7 @@
                     "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1600,
+                    "stars": 1599,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-09-30T06:26:37Z",
+                        "last_commit": "2026-10-01T08:24:29Z",
                         "open_issues": 462,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60910,
+                        "stars": 60913,
                         "topics": [
                           "csr",
                           "framework",
@@ -773,7 +773,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7264,
+                    "stars": 7263,
                     "topics": [
                       "prerender",
                       "seo",
@@ -831,7 +831,7 @@
                     "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1600,
+                    "stars": 1599,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -923,7 +923,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7264,
+                    "stars": 7263,
                     "topics": [
                       "prerender",
                       "seo",
@@ -981,7 +981,7 @@
                     "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1600,
+                    "stars": 1599,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -1107,7 +1107,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7264,
+                    "stars": 7263,
                     "topics": [
                       "prerender",
                       "seo",
@@ -1165,7 +1165,7 @@
                     "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1600,
+                    "stars": 1599,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:37:10.292Z",
+    "last_updated": "2026-10-01T11:05:12.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
