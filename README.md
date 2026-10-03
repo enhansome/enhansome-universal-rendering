@@ -239,9 +239,9 @@ Leading to the following techniques:
 
 ##### Frameworks
 
-* [Next.js](https://github.com/zeit/next.js#readme) ⭐ 143,006 | 🐛 3,537 | 🌐 JavaScript | 📅 2026-10-02 - The most popular SSR tool.
+* [Next.js](https://github.com/zeit/next.js#readme) ⭐ 143,020 | 🐛 3,532 | 🌐 JavaScript | 📅 2026-10-03 - The most popular SSR tool.
 * [After.js](https://github.com/jaredpalmer/after.js#readme) ⭐ 4,089 | 🐛 20 | 🌐 TypeScript | 📅 2024-02-26 - Similar to Next.js but with routing based on React Router.
-* [React Server](https://github.com/redfin/react-server#readme) ⭐ 3,861 | 🐛 164 | 🌐 JavaScript | 📅 2021-03-09
+* [React Server](https://github.com/redfin/react-server#readme) ⭐ 3,860 | 🐛 164 | 🌐 JavaScript | 📅 2021-03-09
 * [Reframe](https://github.com/reframejs/reframe#readme) ⭐ 430 | 🐛 2 | 📅 2021-05-29 - Flexible web framework. It does SSR by default and can be used as SSG.
 * [Fusion.js](https://github.com/fusionjs) - Plugin-based universal web framework maintained by Uber.
 
@@ -258,9 +258,9 @@ Leading to the following techniques:
 
 #### SSG
 
-* [Next.js](https://github.com/zeit/next.js#readme) ⭐ 143,006 | 🐛 3,537 | 🌐 JavaScript | 📅 2026-10-02 - Although primarily focused on SSR, Next.js can also generate static sites.
+* [Next.js](https://github.com/zeit/next.js#readme) ⭐ 143,020 | 🐛 3,532 | 🌐 JavaScript | 📅 2026-10-03 - Although primarily focused on SSR, Next.js can also generate static sites.
 * [Gatsby.js](https://github.com/gatsbyjs/gatsby#readme) ⭐ 55,941 | 🐛 451 | 🌐 JavaScript | 📅 2026-10-01 - SSG based on React and GraphQL.
-* [React Static](https://github.com/nozzle/react-static#readme) ⭐ 10,336 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-31 - SSG based on React and focused on simplicity.
+* [React Static](https://github.com/nozzle/react-static#readme) ⭐ 10,337 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-31 - SSG based on React and focused on simplicity.
 * [Phenomic](https://github.com/phenomic/phenomic#readme) ⚠️ Archived - SSG based on a flexible plugin system.
 * [Reframe](https://github.com/reframejs/reframe#readme) ⭐ 430 | 🐛 2 | 📅 2021-05-29 - Flexible web framework. It does SSR by default and can be used as SSG.
 * [Goldpage](https://github.com/reframejs/goldpage) ⭐ 57 | 🐛 15 | 🌐 JavaScript | 📅 2021-08-04 - A do-one-thing-do-it-well library that supports all app types; "SPA", "SSR", "Static Website", etc.
@@ -301,7 +301,7 @@ Automatically and regularly render your deployed website to HTML.
 
 ##### Frameworks
 
-* [Nuxt](https://github.com/nuxt/nuxt.js#readme) ⭐ 60,914 | 🐛 464 | 🌐 TypeScript | 📅 2026-10-01 - Similar to Next.js but for Vue.
+* [Nuxt](https://github.com/nuxt/nuxt.js#readme) ⭐ 60,917 | 🐛 464 | 🌐 TypeScript | 📅 2026-10-02 - Similar to Next.js but for Vue.
 * [Reframe](https://github.com/reframejs/reframe#readme) ⭐ 430 | 🐛 2 | 📅 2021-05-29 - Flexible web framework. It does SSR by default and can be used as SSG.
 
 ##### Libraries
@@ -492,4 +492,4 @@ Automatically and regularly render your deployed website to HTML.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

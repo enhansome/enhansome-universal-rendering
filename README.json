@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-02T09:19:30Z",
-                        "open_issues": 3537,
+                        "last_commit": "2026-10-03T04:40:43Z",
+                        "open_issues": 3532,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 143006,
+                        "stars": 143020,
                         "topics": [
                           "blog",
                           "browser",
@@ -76,7 +76,7 @@
                     {
                       "node_type": "item",
                       "title": "React Server",
-                      "description": null,
+                      "description": "redfin/react-server",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -89,7 +89,7 @@
                         "open_issues": 164,
                         "owner": "redfin",
                         "repo": "react-server",
-                        "stars": 3861,
+                        "stars": 3860,
                         "topics": [
                           "isomorphic",
                           "react",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T09:19:30Z",
-                    "open_issues": 3537,
+                    "last_commit": "2026-10-03T04:40:43Z",
+                    "open_issues": 3532,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143006,
+                    "stars": 143020,
                     "topics": [
                       "blog",
                       "browser",
@@ -354,7 +354,7 @@
                     "open_issues": 1,
                     "owner": "react-static",
                     "repo": "react-static",
-                    "stars": 10336,
+                    "stars": 10337,
                     "topics": [
                       "marketing",
                       "react",
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-01T08:24:29Z",
+                        "last_commit": "2026-10-02T21:13:26Z",
                         "open_issues": 464,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60914,
+                        "stars": 60917,
                         "topics": [
                           "csr",
                           "framework",
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:37:40.258Z",
+    "last_updated": "2026-10-03T05:12:24.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
