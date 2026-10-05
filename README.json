@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-04T01:50:15Z",
-                        "open_issues": 3537,
+                        "last_commit": "2026-10-05T10:53:16Z",
+                        "open_issues": 3545,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 143125,
+                        "stars": 143186,
                         "topics": [
                           "blog",
                           "browser",
@@ -89,7 +89,7 @@
                         "open_issues": 164,
                         "owner": "redfin",
                         "repo": "react-server",
-                        "stars": 3860,
+                        "stars": 3859,
                         "topics": [
                           "isomorphic",
                           "react",
@@ -150,7 +150,7 @@
                         "open_issues": 135,
                         "owner": "jaredpalmer",
                         "repo": "razzle",
-                        "stars": 11019,
+                        "stars": 11018,
                         "topics": [
                           "isomorphic",
                           "javascript",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-04T01:50:15Z",
-                    "open_issues": 3537,
+                    "last_commit": "2026-10-05T10:53:16Z",
+                    "open_issues": 3545,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143125,
+                    "stars": 143186,
                     "topics": [
                       "blog",
                       "browser",
@@ -325,7 +325,7 @@
                     "open_issues": 453,
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55943,
+                    "stars": 55941,
                     "topics": [
                       "blog",
                       "compiler",
@@ -382,7 +382,7 @@
                     "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3169,
+                    "stars": 3168,
                     "topics": [
                       "compiler",
                       "markdown",
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-03T20:59:11Z",
-                        "open_issues": 468,
+                        "last_commit": "2026-10-05T11:39:14Z",
+                        "open_issues": 466,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60917,
+                        "stars": 60919,
                         "topics": [
                           "csr",
                           "framework",
@@ -711,7 +711,7 @@
                     "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3169,
+                    "stars": 3168,
                     "topics": [
                       "compiler",
                       "markdown",
@@ -1045,7 +1045,7 @@
                     "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3169,
+                    "stars": 3168,
                     "topics": [
                       "compiler",
                       "markdown",
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:41:21.749Z",
+    "last_updated": "2026-10-05T11:43:09.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
