@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-06T11:11:34Z",
-                        "open_issues": 3526,
+                        "last_commit": "2026-10-07T10:49:06Z",
+                        "open_issues": 3538,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 143226,
+                        "stars": 143228,
                         "topics": [
                           "blog",
                           "browser",
@@ -150,7 +150,7 @@
                         "open_issues": 135,
                         "owner": "jaredpalmer",
                         "repo": "razzle",
-                        "stars": 11018,
+                        "stars": 11017,
                         "topics": [
                           "isomorphic",
                           "javascript",
@@ -178,7 +178,7 @@
                         "license": "MIT",
                         "last_commit": "2019-01-05T20:42:35Z",
                         "open_issues": 6,
-                        "owner": "alidcast",
+                        "owner": "alid-code-archives",
                         "repo": "rogue.js",
                         "stars": 1871,
                         "topics": [
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T11:11:34Z",
-                    "open_issues": 3526,
+                    "last_commit": "2026-10-07T10:49:06Z",
+                    "open_issues": 3538,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143226,
+                    "stars": 143228,
                     "topics": [
                       "blog",
                       "browser",
@@ -325,7 +325,7 @@
                     "open_issues": 453,
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55944,
+                    "stars": 55941,
                     "topics": [
                       "blog",
                       "compiler",
@@ -465,7 +465,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7263,
+                    "stars": 7262,
                     "topics": [
                       "prerender",
                       "seo",
@@ -493,7 +493,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5119,
+                    "stars": 5118,
                     "topics": [
                       "prerender",
                       "react",
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-06T11:20:31Z",
-                        "open_issues": 473,
+                        "last_commit": "2026-10-07T09:52:37Z",
+                        "open_issues": 482,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60920,
+                        "stars": 60922,
                         "topics": [
                           "csr",
                           "framework",
@@ -773,7 +773,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7263,
+                    "stars": 7262,
                     "topics": [
                       "prerender",
                       "seo",
@@ -801,7 +801,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5119,
+                    "stars": 5118,
                     "topics": [
                       "prerender",
                       "react",
@@ -895,7 +895,7 @@
                     "open_issues": 0,
                     "owner": "angular",
                     "repo": "universal",
-                    "stars": 3990,
+                    "stars": 3989,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -923,7 +923,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7263,
+                    "stars": 7262,
                     "topics": [
                       "prerender",
                       "seo",
@@ -951,7 +951,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5119,
+                    "stars": 5118,
                     "topics": [
                       "prerender",
                       "react",
@@ -1107,7 +1107,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7263,
+                    "stars": 7262,
                     "topics": [
                       "prerender",
                       "seo",
@@ -1135,7 +1135,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5119,
+                    "stars": 5118,
                     "topics": [
                       "prerender",
                       "react",
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:24:57.100Z",
+    "last_updated": "2026-10-07T11:13:00.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
