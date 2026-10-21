@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-20T09:16:23Z",
-                        "open_issues": 3708,
+                        "last_commit": "2026-10-21T09:13:19Z",
+                        "open_issues": 3733,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 143103,
+                        "stars": 143102,
                         "topics": [
                           "blog",
                           "browser",
@@ -150,7 +150,7 @@
                         "open_issues": 135,
                         "owner": "jaredpalmer",
                         "repo": "razzle",
-                        "stars": 11019,
+                        "stars": 11020,
                         "topics": [
                           "isomorphic",
                           "javascript",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-20T09:16:23Z",
-                    "open_issues": 3708,
+                    "last_commit": "2026-10-21T09:13:19Z",
+                    "open_issues": 3733,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143103,
+                    "stars": 143102,
                     "topics": [
                       "blog",
                       "browser",
@@ -321,11 +321,11 @@
                     "id": 36040894,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T21:35:25Z",
+                    "last_commit": "2026-10-20T11:36:56Z",
                     "open_issues": 457,
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55936,
+                    "stars": 55935,
                     "topics": [
                       "blog",
                       "compiler",
@@ -382,7 +382,7 @@
                     "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3168,
+                    "stars": 3167,
                     "topics": [
                       "compiler",
                       "markdown",
@@ -465,7 +465,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7260,
+                    "stars": 7259,
                     "topics": [
                       "prerender",
                       "seo",
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-20T09:16:55Z",
-                        "open_issues": 476,
+                        "last_commit": "2026-10-21T07:53:07Z",
+                        "open_issues": 477,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60979,
+                        "stars": 60972,
                         "topics": [
                           "csr",
                           "framework",
@@ -711,7 +711,7 @@
                     "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3168,
+                    "stars": 3167,
                     "topics": [
                       "compiler",
                       "markdown",
@@ -773,7 +773,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7260,
+                    "stars": 7259,
                     "topics": [
                       "prerender",
                       "seo",
@@ -923,7 +923,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7260,
+                    "stars": 7259,
                     "topics": [
                       "prerender",
                       "seo",
@@ -1045,7 +1045,7 @@
                     "open_issues": 16,
                     "owner": "MoOx",
                     "repo": "phenomic",
-                    "stars": 3168,
+                    "stars": 3167,
                     "topics": [
                       "compiler",
                       "markdown",
@@ -1107,7 +1107,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7260,
+                    "stars": 7259,
                     "topics": [
                       "prerender",
                       "seo",
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T09:32:59.288Z",
+    "last_updated": "2026-10-21T09:28:53.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
