@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-25T07:03:49Z",
-                        "open_issues": 3758,
+                        "last_commit": "2026-10-26T09:52:36Z",
+                        "open_issues": 3752,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 143224,
+                        "stars": 143293,
                         "topics": [
                           "blog",
                           "browser",
@@ -117,7 +117,7 @@
                         "open_issues": 2,
                         "owner": "reframejs",
                         "repo": "reframe",
-                        "stars": 430,
+                        "stars": 429,
                         "topics": [
                           "javascript",
                           "node",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-25T07:03:49Z",
-                    "open_issues": 3758,
+                    "last_commit": "2026-10-26T09:52:36Z",
+                    "open_issues": 3752,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143224,
+                    "stars": 143293,
                     "topics": [
                       "blog",
                       "browser",
@@ -325,7 +325,7 @@
                     "open_issues": 458,
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55931,
+                    "stars": 55929,
                     "topics": [
                       "blog",
                       "compiler",
@@ -354,7 +354,7 @@
                     "open_issues": 1,
                     "owner": "react-static",
                     "repo": "react-static",
-                    "stars": 10336,
+                    "stars": 10337,
                     "topics": [
                       "marketing",
                       "react",
@@ -411,7 +411,7 @@
                     "open_issues": 2,
                     "owner": "reframejs",
                     "repo": "reframe",
-                    "stars": 430,
+                    "stars": 429,
                     "topics": [
                       "javascript",
                       "node",
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-24T21:29:59Z",
-                        "open_issues": 494,
+                        "last_commit": "2026-10-26T07:37:54Z",
+                        "open_issues": 477,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 60986,
+                        "stars": 60993,
                         "topics": [
                           "csr",
                           "framework",
@@ -645,7 +645,7 @@
                         "open_issues": 2,
                         "owner": "reframejs",
                         "repo": "reframe",
-                        "stars": 430,
+                        "stars": 429,
                         "topics": [
                           "javascript",
                           "node",
@@ -740,7 +740,7 @@
                     "open_issues": 2,
                     "owner": "reframejs",
                     "repo": "reframe",
-                    "stars": 430,
+                    "stars": 429,
                     "topics": [
                       "javascript",
                       "node",
@@ -1074,7 +1074,7 @@
                     "open_issues": 2,
                     "owner": "reframejs",
                     "repo": "reframe",
-                    "stars": 430,
+                    "stars": 429,
                     "topics": [
                       "javascript",
                       "node",
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:16:17.824Z",
+    "last_updated": "2026-10-26T10:21:51.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
