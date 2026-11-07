@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-06T11:59:16Z",
-                        "open_issues": 3836,
+                        "last_commit": "2026-11-07T10:55:00Z",
+                        "open_issues": 3853,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 143359,
+                        "stars": 143376,
                         "topics": [
                           "blog",
                           "browser",
@@ -89,7 +89,7 @@
                         "open_issues": 164,
                         "owner": "redfin",
                         "repo": "react-server",
-                        "stars": 3861,
+                        "stars": 3862,
                         "topics": [
                           "isomorphic",
                           "react",
@@ -150,7 +150,7 @@
                         "open_issues": 135,
                         "owner": "jaredpalmer",
                         "repo": "razzle",
-                        "stars": 11018,
+                        "stars": 11019,
                         "topics": [
                           "isomorphic",
                           "javascript",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-06T11:59:16Z",
-                    "open_issues": 3836,
+                    "last_commit": "2026-11-07T10:55:00Z",
+                    "open_issues": 3853,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143359,
+                    "stars": 143376,
                     "topics": [
                       "blog",
                       "browser",
@@ -325,7 +325,7 @@
                     "open_issues": 461,
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55920,
+                    "stars": 55918,
                     "topics": [
                       "blog",
                       "compiler",
@@ -465,7 +465,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7259,
+                    "stars": 7258,
                     "topics": [
                       "prerender",
                       "seo",
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-05T23:39:53Z",
-                        "open_issues": 473,
+                        "last_commit": "2026-11-07T01:11:28Z",
+                        "open_issues": 477,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 61044,
+                        "stars": 61050,
                         "topics": [
                           "csr",
                           "framework",
@@ -773,7 +773,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7259,
+                    "stars": 7258,
                     "topics": [
                       "prerender",
                       "seo",
@@ -923,7 +923,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7259,
+                    "stars": 7258,
                     "topics": [
                       "prerender",
                       "seo",
@@ -1107,7 +1107,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7259,
+                    "stars": 7258,
                     "topics": [
                       "prerender",
                       "seo",
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:19:34.368Z",
+    "last_updated": "2026-11-07T11:13:43.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
@@ -1226,7 +1226,7 @@
       "open_issues": 0,
       "owner": "brillout",
       "repo": "awesome-universal-rendering",
-      "stars": 351,
+      "stars": 352,
       "topics": [
         "awesome",
         "awesome-list",
