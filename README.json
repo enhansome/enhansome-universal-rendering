@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-09T12:58:35Z",
-                        "open_issues": 3912,
+                        "last_commit": "2026-11-10T12:20:15Z",
+                        "open_issues": 3908,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 143434,
+                        "stars": 143446,
                         "topics": [
                           "blog",
                           "browser",
@@ -117,7 +117,7 @@
                         "open_issues": 2,
                         "owner": "reframejs",
                         "repo": "reframe",
-                        "stars": 428,
+                        "stars": 429,
                         "topics": [
                           "javascript",
                           "node",
@@ -150,7 +150,7 @@
                         "open_issues": 135,
                         "owner": "jaredpalmer",
                         "repo": "razzle",
-                        "stars": 11020,
+                        "stars": 11019,
                         "topics": [
                           "isomorphic",
                           "javascript",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T12:58:35Z",
-                    "open_issues": 3912,
+                    "last_commit": "2026-11-10T12:20:15Z",
+                    "open_issues": 3908,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143434,
+                    "stars": 143446,
                     "topics": [
                       "blog",
                       "browser",
@@ -321,8 +321,8 @@
                     "id": 36040894,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-20T11:36:56Z",
-                    "open_issues": 463,
+                    "last_commit": "2026-11-09T16:47:00Z",
+                    "open_issues": 461,
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
                     "stars": 55916,
@@ -411,7 +411,7 @@
                     "open_issues": 2,
                     "owner": "reframejs",
                     "repo": "reframe",
-                    "stars": 428,
+                    "stars": 429,
                     "topics": [
                       "javascript",
                       "node",
@@ -465,7 +465,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7258,
+                    "stars": 7257,
                     "topics": [
                       "prerender",
                       "seo",
@@ -493,7 +493,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5123,
+                    "stars": 5122,
                     "topics": [
                       "prerender",
                       "react",
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-09T10:10:30Z",
-                        "open_issues": 474,
+                        "last_commit": "2026-11-10T12:51:06Z",
+                        "open_issues": 486,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 61056,
+                        "stars": 61060,
                         "topics": [
                           "csr",
                           "framework",
@@ -645,7 +645,7 @@
                         "open_issues": 2,
                         "owner": "reframejs",
                         "repo": "reframe",
-                        "stars": 428,
+                        "stars": 429,
                         "topics": [
                           "javascript",
                           "node",
@@ -740,7 +740,7 @@
                     "open_issues": 2,
                     "owner": "reframejs",
                     "repo": "reframe",
-                    "stars": 428,
+                    "stars": 429,
                     "topics": [
                       "javascript",
                       "node",
@@ -773,7 +773,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7258,
+                    "stars": 7257,
                     "topics": [
                       "prerender",
                       "seo",
@@ -801,7 +801,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5123,
+                    "stars": 5122,
                     "topics": [
                       "prerender",
                       "react",
@@ -923,7 +923,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7258,
+                    "stars": 7257,
                     "topics": [
                       "prerender",
                       "seo",
@@ -951,7 +951,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5123,
+                    "stars": 5122,
                     "topics": [
                       "prerender",
                       "react",
@@ -1074,7 +1074,7 @@
                     "open_issues": 2,
                     "owner": "reframejs",
                     "repo": "reframe",
-                    "stars": 428,
+                    "stars": 429,
                     "topics": [
                       "javascript",
                       "node",
@@ -1107,7 +1107,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7258,
+                    "stars": 7257,
                     "topics": [
                       "prerender",
                       "seo",
@@ -1135,7 +1135,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5123,
+                    "stars": 5122,
                     "topics": [
                       "prerender",
                       "react",
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T13:10:23.964Z",
+    "last_updated": "2026-11-10T12:51:37.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
