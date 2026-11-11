@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-10T12:20:15Z",
-                        "open_issues": 3908,
+                        "last_commit": "2026-11-11T11:57:00Z",
+                        "open_issues": 3925,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 143446,
+                        "stars": 143470,
                         "topics": [
                           "blog",
                           "browser",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T12:20:15Z",
-                    "open_issues": 3908,
+                    "last_commit": "2026-11-11T11:57:00Z",
+                    "open_issues": 3925,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143446,
+                    "stars": 143470,
                     "topics": [
                       "blog",
                       "browser",
@@ -354,7 +354,7 @@
                     "open_issues": 1,
                     "owner": "react-static",
                     "repo": "react-static",
-                    "stars": 10337,
+                    "stars": 10338,
                     "topics": [
                       "marketing",
                       "react",
@@ -465,7 +465,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7257,
+                    "stars": 7258,
                     "topics": [
                       "prerender",
                       "seo",
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-10T12:51:06Z",
-                        "open_issues": 486,
+                        "last_commit": "2026-11-11T11:50:23Z",
+                        "open_issues": 475,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 61060,
+                        "stars": 61064,
                         "topics": [
                           "csr",
                           "framework",
@@ -773,7 +773,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7257,
+                    "stars": 7258,
                     "topics": [
                       "prerender",
                       "seo",
@@ -923,7 +923,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7257,
+                    "stars": 7258,
                     "topics": [
                       "prerender",
                       "seo",
@@ -1107,7 +1107,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7257,
+                    "stars": 7258,
                     "topics": [
                       "prerender",
                       "seo",
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T12:51:37.111Z",
+    "last_updated": "2026-11-11T11:59:46.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
