@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-12T12:48:00Z",
-                        "open_issues": 3950,
+                        "last_commit": "2026-11-13T12:19:05Z",
+                        "open_issues": 3964,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 143486,
+                        "stars": 143504,
                         "topics": [
                           "blog",
                           "browser",
@@ -150,7 +150,7 @@
                         "open_issues": 135,
                         "owner": "jaredpalmer",
                         "repo": "razzle",
-                        "stars": 11020,
+                        "stars": 11019,
                         "topics": [
                           "isomorphic",
                           "javascript",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-12T12:48:00Z",
-                    "open_issues": 3950,
+                    "last_commit": "2026-11-13T12:19:05Z",
+                    "open_issues": 3964,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143486,
+                    "stars": 143504,
                     "topics": [
                       "blog",
                       "browser",
@@ -493,7 +493,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5121,
+                    "stars": 5123,
                     "topics": [
                       "prerender",
                       "react",
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-12T12:52:44Z",
-                        "open_issues": 477,
+                        "last_commit": "2026-11-13T11:59:48Z",
+                        "open_issues": 479,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 61064,
+                        "stars": 61065,
                         "topics": [
                           "csr",
                           "framework",
@@ -801,7 +801,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5121,
+                    "stars": 5123,
                     "topics": [
                       "prerender",
                       "react",
@@ -951,7 +951,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5121,
+                    "stars": 5123,
                     "topics": [
                       "prerender",
                       "react",
@@ -1135,7 +1135,7 @@
                     "open_issues": 192,
                     "owner": "stereobooster",
                     "repo": "react-snap",
-                    "stars": 5121,
+                    "stars": 5123,
                     "topics": [
                       "prerender",
                       "react",
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:01:47.023Z",
+    "last_updated": "2026-11-13T12:28:07.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
