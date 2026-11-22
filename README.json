@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-21T12:48:54Z",
-                        "open_issues": 4112,
+                        "last_commit": "2026-11-22T12:17:58Z",
+                        "open_issues": 4110,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 143629,
+                        "stars": 143606,
                         "topics": [
                           "blog",
                           "browser",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-21T12:48:54Z",
-                    "open_issues": 4112,
+                    "last_commit": "2026-11-22T12:17:58Z",
+                    "open_issues": 4110,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143629,
+                    "stars": 143606,
                     "topics": [
                       "blog",
                       "browser",
@@ -354,7 +354,7 @@
                     "open_issues": 1,
                     "owner": "react-static",
                     "repo": "react-static",
-                    "stars": 10337,
+                    "stars": 10338,
                     "topics": [
                       "marketing",
                       "react",
@@ -544,7 +544,7 @@
                     "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1596,
+                    "stars": 1595,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-21T12:18:31Z",
-                        "open_issues": 477,
+                        "last_commit": "2026-11-22T12:20:33Z",
+                        "open_issues": 475,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 61092,
+                        "stars": 61098,
                         "topics": [
                           "csr",
                           "framework",
@@ -831,7 +831,7 @@
                     "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1596,
+                    "stars": 1595,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -981,7 +981,7 @@
                     "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1596,
+                    "stars": 1595,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -1165,7 +1165,7 @@
                     "open_issues": 45,
                     "owner": "markdalgleish",
                     "repo": "static-site-generator-webpack-plugin",
-                    "stars": 1596,
+                    "stars": 1595,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:47:07.248Z"
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T12:52:41.055Z",
+    "last_updated": "2026-11-22T12:45:18.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
