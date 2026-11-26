@@ -21,11 +21,11 @@
                         "id": 70107786,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-25T14:39:28Z",
-                        "open_issues": 4133,
+                        "last_commit": "2026-11-26T14:00:17Z",
+                        "open_issues": 4156,
                         "owner": "vercel",
                         "repo": "next.js",
-                        "stars": 143717,
+                        "stars": 143741,
                         "topics": [
                           "blog",
                           "browser",
@@ -285,11 +285,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-25T14:39:28Z",
-                    "open_issues": 4133,
+                    "last_commit": "2026-11-26T14:00:17Z",
+                    "open_issues": 4156,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143717,
+                    "stars": 143741,
                     "topics": [
                       "blog",
                       "browser",
@@ -321,11 +321,11 @@
                     "id": 36040894,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-20T21:42:34Z",
+                    "last_commit": "2026-11-25T22:20:05Z",
                     "open_issues": 462,
                     "owner": "gatsbyjs",
                     "repo": "gatsby",
-                    "stars": 55917,
+                    "stars": 55919,
                     "topics": [
                       "blog",
                       "compiler",
@@ -465,7 +465,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7255,
+                    "stars": 7254,
                     "topics": [
                       "prerender",
                       "seo",
@@ -606,11 +606,11 @@
                         "id": 71995937,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-25T14:40:13Z",
+                        "last_commit": "2026-11-25T21:30:27Z",
                         "open_issues": 482,
                         "owner": "nuxt",
                         "repo": "nuxt",
-                        "stars": 61098,
+                        "stars": 61104,
                         "topics": [
                           "csr",
                           "framework",
@@ -773,7 +773,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7255,
+                    "stars": 7254,
                     "topics": [
                       "prerender",
                       "seo",
@@ -923,7 +923,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7255,
+                    "stars": 7254,
                     "topics": [
                       "prerender",
                       "seo",
@@ -1107,7 +1107,7 @@
                     "open_issues": 204,
                     "owner": "chrisvfritz",
                     "repo": "prerender-spa-plugin",
-                    "stars": 7255,
+                    "stars": 7254,
                     "topics": [
                       "prerender",
                       "seo",
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T14:45:07.908Z",
+    "last_updated": "2026-11-26T14:08:58.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).",
